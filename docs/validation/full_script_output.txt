@@ -1,0 +1,629 @@
+Naive Bayes classification
+ERROR (pos classed as neg 0.07):ultimately , it ponders the reasons we need stories so much . 
+ERROR (pos classed as neg 0.08):like most bond outings in recent years , some of the stunts are so outlandish that they border on being cartoonlike . a heavy reliance on cgi technology is beginning to creep into the series . 
+ERROR (pos classed as neg 0.49):on the surface , it's a lovers-on-the-run crime flick , but it has a lot in common with piesiewicz's and kieslowski's earlier work , films like the double life of veronique . 
+ERROR (pos classed as neg 0.43):the values that have held the enterprise crew together through previous adventures and perils do so again-courage , self-sacrifice and patience under pressure . 
+ERROR (pos classed as neg 0.46):it's not exactly a gourmet meal but the fare is fair , even coming from the drive-thru . 
+ERROR (pos classed as neg 0.07):children may not understand everything that happens -- i'm not sure even miyazaki himself does -- but they will almost certainly be fascinated , and undoubtedly delighted . 
+ERROR (pos classed as neg 0.15):it would be interesting to hear from the other side , but in talk to her , the women are down for the count . 
+ERROR (pos classed as neg 0.08):asia authors herself as anna battista , an italian superstar and aspiring directress who just happens to be her own worst enemy . 
+ERROR (pos classed as neg 0.02):this is such a high-energy movie where the drumming and the marching are so excellent , who cares if the story's a little weak . 
+ERROR (pos classed as neg 0.36):is office work really as alienating as 'bartleby' so effectively makes it ? 
+ERROR (pos classed as neg 0.05):while not all transitions to adulthood are so fraught , there's much truth and no small amount of poetry in girls can't swim . 
+ERROR (pos classed as neg 0.43):one hour photo is an intriguing snapshot of one man and his delusions ; it's just too bad it doesn't have more flashes of insight . 
+ERROR (pos classed as neg 0.01):it represents better-than-average movie-making that doesn't demand a dumb , distracted audience . 
+ERROR (pos classed as neg 0.01):the sundance film festival has become so buzz-obsessed that fans and producers descend upon utah each january to ferret out the next great thing . 'tadpole' was one of the films so declared this year , but it's really more of the next pretty good thing . 
+ERROR (pos classed as neg 0.14):you don't have to be an especially tough grader to give a charitable b-minus to the emperor's club . 
+ERROR (pos classed as neg 0.15):director rob marshall went out gunning to make a great one . 
+ERROR (pos classed as neg 0.10):don't expect any surprises in this checklist of teamwork cliches . . . 
+ERROR (pos classed as neg 0.01):not so much a movie as a picture book for the big screen . this isn't my favorite in the series , still i enjoyed it enough to recommend . 
+ERROR (pos classed as neg 0.06):awkward but sincere and , ultimately , it wins you over . 
+ERROR (pos classed as neg 0.19):it may not be " last tango in paris " but . . . 
+ERROR (pos classed as neg 0.31): . . . spiced with humor ( 'i speak fluent flatula , ' advises denlopp after a rather , er , bubbly exchange with an alien deckhand ) and witty updatings ( silver's parrot has been replaced with morph , a cute alien creature who mimics everyone and everything around ) 
+ERROR (pos classed as neg 0.00):the plot is so amusingly contrived and outlandish in its coincidences that no one could ever mistake it for anything resembling reality
+ERROR (pos classed as neg 0.45):so young , so smart , such talent , such a wise * * * . 
+ERROR (pos classed as neg 0.11):it is so refreshing to see robin williams turn 180 degrees from the string of insultingly innocuous and sappy fiascoes he's been making for the last several years . 
+ERROR (pos classed as neg 0.26):about nowhere kids who appropriated turfs as they found them and become self-made celebrity athletes -- a low-down version of the american dream . 
+ERROR (pos classed as neg 0.36):a charming , quirky and leisurely paced scottish comedy -- except with an outrageous central gimmick that could have been a reject from monty python's meaning of life . 
+ERROR (pos classed as neg 0.10):the movie exists for its soccer action and its fine acting . 
+ERROR (pos classed as neg 0.29):my oh my , is this an invigorating , electric movie . 
+ERROR (pos classed as neg 0.45):nothing's at stake , just a twisty double-cross you can smell a mile away--still , the derivative nine queens is lots of fun . 
+ERROR (pos classed as neg 0.03):you'll gasp appalled and laugh outraged and possibly , watching the spectacle of a promising young lad treading desperately in a nasty sea , shed an errant tear . 
+ERROR (pos classed as neg 0.02):like mike is a winner for kids , and no doubt a winner for lil bow wow , who can now add movies to the list of things he does well . 
+ERROR (pos classed as neg 0.18):dense with characters and contains some thrilling moments . 
+ERROR (pos classed as neg 0.19):one of creepiest , scariest movies to come along in a long , long time , easily rivaling blair witch or the others . 
+ERROR (pos classed as neg 0.00):it seems like i have been waiting my whole life for this movie and now i can't wait for the sequel . 
+ERROR (pos classed as neg 0.02):it's so good that you can practically see the hollywood 'suits' trying to put together the cast and filmmaking team for the all-too -inevitable american remake . 
+ERROR (pos classed as neg 0.25):'they' begins and ends with scenes so terrifying i'm still stunned . and i've decided to leave a light on every night from now on . 
+ERROR (pos classed as neg 0.21):overall very good for what it's trying to do . 
+ERROR (pos classed as neg 0.32):holy mad maniac in a mask , splat-man ! good old-fashioned slash-and-hack is back ! 
+ERROR (pos classed as neg 0.12):as unseemly as its title suggests . 
+ERROR (pos classed as neg 0.28):it's hard to imagine alan arkin being better than he is in this performance . 
+ERROR (pos classed as neg 0.41):[majidi] makes us think twice about immigrants we see around us every day . 
+ERROR (pos classed as neg 0.13):viewers of " the ring " are more likely to remember the haunting images than the plot holes . 
+ERROR (pos classed as neg 0.17):it's a demented kitsch mess ( although the smeary digital video does match the muddled narrative ) , but it's savvy about celebrity and has more guts and energy than much of what will open this year . 
+ERROR (pos classed as neg 0.31):if you're a fan of the series you'll love it and probably want to see it twice . i will be . 
+ERROR (pos classed as neg 0.13):what's not to like about a movie with a 'children's' song that includes the line 'my stepdad's not mean , he's just adjusting' ? 
+ERROR (pos classed as neg 0.17):like the original , this version is raised a few notches above kiddie fantasy pablum by allen's astringent wit . 
+ERROR (pos classed as neg 0.18):the filmmakers want nothing else than to show us a good time , and in their cheap , b movie way , they succeed . 
+ERROR (pos classed as neg 0.28):maybe thomas wolfe was right : you can't go home again . 
+ERROR (pos classed as neg 0.32):as literary desecrations go , this makes for perfectly acceptable , occasionally very enjoyable children's entertainment . you'll forget about it by monday , though , and if they're old enough to have developed some taste , so will your kids . 
+ERROR (pos classed as neg 0.24):an oddity , to be sure , but one that you might wind up remembering with a degree of affection rather than revulsion . 
+ERROR (pos classed as neg 0.02):it's an often-cute film but either needs more substance to fill the time or some judicious editing . 
+ERROR (pos classed as neg 0.10):nothing can detract from the affection of that moral favorite : friends will be friends through thick and thin . 
+ERROR (pos classed as neg 0.38):i'll put it this way : if you're in the mood for a melodrama narrated by talking fish , this is the movie for you . 
+ERROR (pos classed as neg 0.22):muccino seems to be exploring the idea of why human beings long for what they don't have , and how this gets us in trouble . but even while his characters are acting horribly , he is always sympathetic . 
+ERROR (pos classed as neg 0.33):life on the rez is no picnic : this picture shows you why . 
+ERROR (pos classed as neg 0.21):williams plays sy , another of his open-faced , smiling madmen , like the killer in insomnia . he does this so well you don't have the slightest difficulty accepting him in the role . 
+ERROR (pos classed as neg 0.19):it ain't art , by a long shot , but unlike last year's lame musketeer , this dumas adaptation entertains . 
+ERROR (pos classed as neg 0.01):the ring is worth a look , if you don't demand much more than a few cheap thrills from your halloween entertainment . 
+ERROR (pos classed as neg 0.19):going to this movie is a little like chewing whale blubber - it's an acquired taste that takes time to enjoy , but it's worth it , even if it does take 3 hours to get through . 
+ERROR (pos classed as neg 0.44):majidi's direction has never been smoother or more confident . 
+ERROR (pos classed as neg 0.01):collateral damage is trash , but it earns extra points by acting as if it weren't . 
+ERROR (pos classed as neg 0.46):fubar is very funny , but not always in a laugh-out-loud way . 
+ERROR (pos classed as neg 0.29):[the digital effects] reminded me of terry gilliam's rudimentary old monty python cartoons , in which he would cut out figures from drawings and photographs and paste them together . 
+ERROR (pos classed as neg 0.40):the sweetest thing , a romantic comedy with outrageous tendencies , may be a mess in a lot of ways . but it does have one saving grace . a lot of its gags and observations reflect a woman's point-of-view . 
+ERROR (pos classed as neg 0.17):i am not generally a huge fan of cartoons derived from tv shows , but hey arnold ! the movie is clever , offbeat and even gritty enough to overcome my resistance . 
+ERROR (pos classed as neg 0.26):although mainstream american movies tend to exploit the familiar , every once in a while a film arrives from the margin that gives viewers a chance to learn , to grow , to travel . 
+ERROR (pos classed as neg 0.09): . . . in no way original , or even all that memorable , but as downtown saturday matinee brain candy , it doesn't disappoint . 
+ERROR (pos classed as neg 0.28):vincent gallo is right at home in this french shocker playing his usual bad boy weirdo role . 
+ERROR (pos classed as neg 0.03):it's about as convincing as any other arnie musclefest , but has a little too much resonance with real world events and ultimately comes off as insultingly simplistic . 
+ERROR (pos classed as neg 0.37):the movie is well crafted , and well executed . if you're paying attention , the " big twists " are pretty easy to guess - but that doesn't make the movie any less entertaining . 
+ERROR (pos classed as neg 0.12):even when there are lulls , the emotions seem authentic , and the picture is so lovely toward the end . . . you almost don't notice the 129-minute running time . 
+ERROR (pos classed as neg 0.04):this starts off with a 1950's doris day feel and it gets very ugly , very fast . the first five minutes will have you talking 'til the end of the year ! 
+ERROR (pos classed as neg 0.37):the climactic events are so well realized that you may forget all about the original conflict , just like the movie does
+ERROR (pos classed as neg 0.07):it's virtually impossible to like any of these despicable characters . 
+ERROR (pos classed as neg 0.48):mama africa pretty much delivers on that promise . it does give you a peek . the main problem being that it's only a peek . 
+ERROR (pos classed as neg 0.19):has far more energy , wit and warmth than should be expected from any movie with a " 2 " at the end of its title . 
+ERROR (pos classed as neg 0.01):could this be the first major studio production shot on video tape instead of film ? 
+ERROR (pos classed as neg 0.01):i am highly amused by the idea that we have come to a point in society where it has been deemed important enough to make a film in which someone has to be hired to portray richard dawson . 
+ERROR (pos classed as neg 0.25):it's no accident that the accidental spy is a solid action pic that returns the martial arts master to top form . 
+ERROR (pos classed as neg 0.45):but this is not a movie about an inhuman monster ; it's about a very human one . 
+ERROR (pos classed as neg 0.21):although some viewers will not be able to stomach so much tongue-in-cheek weirdness , those who do will have found a cult favorite to enjoy for a lifetime . 
+ERROR (pos classed as neg 0.05):lacks the inspiration of the original and has a bloated plot that stretches the running time about 10 minutes past a child's interest and an adult's patience . but it also has many of the things that made the first one charming . 
+ERROR (pos classed as neg 0.34):brims with passion : for words , for its eccentric , accident-prone characters , and for the crazy things that keep people going in this crazy life . 
+ERROR (pos classed as neg 0.47):quite simply , a joy to watch and--especially--to listen to . 
+ERROR (pos classed as neg 0.16):much of all about lily chou-chou is mesmerizing : some of its plaintiveness could make you weep . 
+ERROR (pos classed as neg 0.12):meant for star wars fans . it is there to give them a good time . 
+ERROR (pos classed as neg 0.22):the film has a kind of hard , cold effect . 
+ERROR (pos classed as neg 0.03):to get at the root psychology of this film would require many sessions on the couch of dr . freud . 
+ERROR (pos classed as neg 0.07):there are times when you wish that the movie had worked a little harder to conceal its contrivances , but brown sugar turns out to be a sweet and enjoyable fantasy . 
+ERROR (pos classed as neg 0.26):it trusts the story it sets out to tell . 
+ERROR (pos classed as neg 0.24):me no lika da accents so good , but i thoroughly enjoyed the love story . scott baio is turning in some delightful work on indie projects . 
+ERROR (pos classed as neg 0.23):if you don't flee , you might be seduced . if you don't laugh , flee . 
+ERROR (pos classed as neg 0.09):now as a former gong show addict , i'll admit it , my only complaint is that we didn't get more re-creations of all those famous moments from the show . 
+ERROR (pos classed as neg 0.38):it's fun , splashy and entertainingly nasty . 
+ERROR (pos classed as neg 0.10):a wild comedy that could only spring from the demented mind of the writer of being john malkovich . 
+ERROR (pos classed as neg 0.07):the sentimental script has problems , but the actors pick up the slack . 
+ERROR (pos classed as neg 0.04):it all plays out . . . like a high-end john hughes comedy , a kind of elder bueller's time out . 
+ERROR (pos classed as neg 0.16):even though many of these guys are less than adorable ( their lamentations are pretty much self-centered ) , there's something vital about the movie . 
+ERROR (pos classed as neg 0.19):it's up to [watts] to lend credibility to this strange scenario , and her presence succeeds in making us believe . 
+ERROR (pos classed as neg 0.20):i know i shouldn't have laughed , but hey , those farts got to my inner nine-year-old . 
+ERROR (pos classed as neg 0.36):i'd watch these two together again in a new york minute . 
+ERROR (pos classed as neg 0.12):while cherish doesn't completely survive its tonal transformation from dark comedy to suspense thriller , it's got just enough charm and appealing character quirks to forgive that still serious problem . 
+ERROR (pos classed as neg 0.22):may be the most undeserving victim of critical overkill since town and country . 
+ERROR (pos classed as neg 0.34):all in all , it's a pretty good execution of a story that's a lot richer than the ones hollywood action screenwriters usually come up with on their own . 
+ERROR (pos classed as neg 0.30):despite these annoyances , the capable clayburgh and tambor really do a great job of anchoring the characters in the emotional realities of middle age . 
+ERROR (pos classed as neg 0.01):byler is too savvy a filmmaker to let this morph into a typical romantic triangle . instead , he focuses on the anguish that can develop when one mulls leaving the familiar to traverse uncharted ground . 
+ERROR (pos classed as neg 0.32):gives everyone something to shout about . 
+ERROR (pos classed as neg 0.42):ou've got to love a disney pic with as little cleavage as this one has , and a heroine as feisty and principled as jane . 
+ERROR (pos classed as neg 0.18):a confluence of kiddie entertainment , sophisticated wit and symbolic graphic design . 
+ERROR (pos classed as neg 0.00):even before it builds up to its insanely staged ballroom scene , in which 3000 actors appear in full regalia , it's waltzed itself into the art film pantheon . 
+ERROR (pos classed as neg 0.12):if the plot seems a bit on the skinny side , that's because panic room is interested in nothing more than sucking you inand making you sweat . 
+ERROR (pos classed as neg 0.27):painful , horrifying and oppressively tragic , this film should not be missed . 
+ERROR (pos classed as neg 0.00):while we no longer possess the lack-of-attention span that we did at seventeen , we had no trouble sitting for blade ii . 
+ERROR (pos classed as neg 0.42):like these russo guys lookin' for their mamet instead found their sturges . 
+ERROR (pos classed as neg 0.31):count on his movie to work at the back of your neck long after you leave the theater . 
+ERROR (pos classed as neg 0.11):though the film never veers from its comic course , its unintentional parallels might inadvertently evoke memories and emotions which are anything but humorous . 
+ERROR (pos classed as neg 0.24):a gangster movie with the capacity to surprise . 
+ERROR (pos classed as neg 0.02):goldmember is funny enough to justify the embarrassment of bringing a barf bag to the moviehouse . 
+ERROR (pos classed as neg 0.26):[scherfig] has made a movie that will leave you wondering about the characters' lives after the clever credits roll . 
+ERROR (pos classed as neg 0.46):rarely has skin looked as beautiful , desirable , even delectable , as it does in trouble every day . 
+ERROR (pos classed as neg 0.02):the movie worked for me right up to the final scene , and then it caved in . 
+ERROR (pos classed as neg 0.35):the picture's fascinating byways are littered with trenchant satirical jabs at the peculiar egocentricities of the acting breed . 
+ERROR (pos classed as neg 0.06):the modern remake of dumas's story is long on narrative and ( too ) short on action . 
+ERROR (pos classed as neg 0.01):there's real visual charge to the filmmaking , and a strong erotic spark to the most crucial lip-reading sequence . 
+ERROR (pos classed as neg 0.23):an energetic and engaging film that never pretends to be something it isn't . 
+ERROR (pos classed as neg 0.45):smith finds amusing juxtapositions that justify his exercise . 
+ERROR (pos classed as neg 0.12):schaeffer isn't in this film , which may be why it works as well as it does . 
+ERROR (pos classed as neg 0.14):if you can read the subtitles ( the opera is sung in italian ) and you like 'masterpiece theatre' type costumes , you'll enjoy this movie . 
+ERROR (neg classed as pos 0.93):curling may be a unique sport but men with brooms is distinctly ordinary . 
+ERROR (neg classed as pos 0.95):only in its final surprising shots does rabbit-proof fence find the authority it's looking for . 
+ERROR (neg classed as pos 0.52):even in the summertime , the most restless young audience deserves the dignity of an action hero motivated by something more than franchise possibilities . 
+ERROR (neg classed as pos 0.94):while it is interesting to witness the conflict from the palestinian side , longley's film lacks balance . . . and fails to put the struggle into meaningful historical context . 
+ERROR (neg classed as pos 0.97):cold and scattered , minority report commands interest almost solely as an exercise in gorgeous visuals . that's not vintage spielberg and that , finally , is minimally satisfying . 
+ERROR (neg classed as pos 0.97):a sincere but dramatically conflicted gay coming-of-age tale . 
+ERROR (neg classed as pos 0.90):innocuous enough to make even jean-claude van damme look good . 
+ERROR (neg classed as pos 0.58):paxton's uneven directorial debut fails to unlock the full potential of what is in many ways a fresh and dramatically substantial spin on the genre . 
+ERROR (neg classed as pos 0.87):it's the element of condescension , as the filmmakers look down on their working-class subjects from their lofty perch , that finally makes sex with strangers , which opens today in the new york metropolitan area , so distasteful . 
+ERROR (neg classed as pos 0.95):only about as sexy and dangerous as an actress in a role that reminds at every turn of elizabeth berkley's flopping dolphin-gasm . 
+ERROR (neg classed as pos 0.91):a wildly erratic drama with sequences that make you wince in embarrassment and others , thanks to the actors , that are quite touching . 
+ERROR (neg classed as pos 0.50):eight legged freaks ? no big hairy deal . 
+ERROR (neg classed as pos 0.80):as happily glib and vicious as its characters . 
+ERROR (neg classed as pos 0.69):once again , director chris columbus takes a hat-in-hand approach to rowling that stifles creativity and allows the film to drag on for nearly three hours . 
+ERROR (neg classed as pos 0.56):the isolated moments of creative insanity finally are lost in the thin soup of canned humor . 
+ERROR (neg classed as pos 1.00):there is one surefire way to get a nomination for a best-foreign-film oscar : make a movie about whimsical folk who learn a nonchallenging , life-affirming lesson while walking around a foreign city with stunning architecture . 
+ERROR (neg classed as pos 0.94):the innocence of holiday cheer ain't what it used to be . 
+ERROR (neg classed as pos 0.67):consider the film a celluloid litmus test for the intellectual and emotional pedigree of your date and a giant step backward for a director i admire . 
+ERROR (neg classed as pos 0.91):twenty-three movies into a mostly magnificent directorial career , clint eastwood's efficiently minimalist style finally has failed him . big time . 
+ERROR (neg classed as pos 0.70):mendes still doesn't quite know how to fill a frame . like the hanks character , he's a slow study : the action is stilted and the tabloid energy embalmed . 
+ERROR (neg classed as pos 0.71):a bold ( and lovely ) experiment that will almost certainly bore most audiences into their own brightly colored dreams . 
+ERROR (neg classed as pos 0.62):an uplifting , largely bogus story . 
+ERROR (neg classed as pos 0.55):could as easily have been called 'under siege 3 : in alcatraz' . . . a cinematic corpse that never springs to life . 
+ERROR (neg classed as pos 0.57):a cautionary tale about the folly of superficiality that is itself endlessly superficial . 
+ERROR (neg classed as pos 0.62): . . . the story simply putters along looking for astute observations and coming up blank . 
+ERROR (neg classed as pos 0.72):the very definition of what critics have come to term an " ambitious failure . " 
+ERROR (neg classed as pos 0.57):a chiller resolutely without chills . 
+ERROR (neg classed as pos 0.50):wes craven's presence is felt ; not the craven of 'a nightmare on elm street' or 'the hills have eyes , ' but the sad schlock merchant of 'deadly friend . '
+ERROR (neg classed as pos 0.93):bolstered by an astonishing voice cast ( excepting love hewitt ) , an interesting racial tension , and a storyline that i haven't encountered since at least pete's dragon . 
+ERROR (neg classed as pos 0.54):to be oblivious to the existence of this film would be very sweet indeed . 
+ERROR (neg classed as pos 0.78):friday after next is the kind of film that could only be made by african-americans because of its broad racial insensitivity towards african-americans . 
+ERROR (neg classed as pos 0.85):this is the first full scale wwii flick from hong kong's john woo . he's not good with people . 
+ERROR (neg classed as pos 0.65):cacoyannis is perhaps too effective in creating an atmosphere of dust-caked stagnation and labored gentility . 
+ERROR (neg classed as pos 0.77):worth seeing once , but its charm quickly fades . 
+ERROR (neg classed as pos 0.79):gere gives a good performance in a film that doesn't merit it . 
+ERROR (neg classed as pos 0.66):were dylan thomas alive to witness first-time director ethan hawke's strained chelsea walls , he might have been tempted to change his landmark poem to , 'do not go gentle into that good theatre . '
+ERROR (neg classed as pos 0.67):occasionally interesting but essentially unpersuasive , a footnote to a still evolving story . 
+ERROR (neg classed as pos 0.99):why make a documentary about these marginal historical figures ? wouldn't one about their famous dad , author of death in venice , etc . , be more valuable ? 
+ERROR (neg classed as pos 1.00):care deftly captures the wonder and menace of growing up , but he never really embraces the joy of fuhrman's destructive escapism or the grace-in-rebellion found by his characters . 
+ERROR (neg classed as pos 0.99):jacquot's rendering of puccini's tale of devotion and double-cross is more than just a filmed opera . in his first stab at the form , jacquot takes a slightly anarchic approach that works only sporadically . 
+ERROR (neg classed as pos 0.86):there's a solid woman- finding-herself story somewhere in here , but you'd have to dig pretty deep to uncover it . 
+ERROR (neg classed as pos 0.70):i still can't relate to stuart : he's a mouse , for cryin' out loud , and all he does is milk it with despondent eyes and whine that nobody treats him human enough . 
+ERROR (neg classed as pos 0.51):who needs love like this ? 
+ERROR (neg classed as pos 0.99):returning aggressively to his formula of dimwitted comedy and even dimmer characters , sandler , who also executive produces , has made a film that makes previous vehicles look smart and sassy . 
+ERROR (neg classed as pos 0.61):even film silliness needs a little gravity , beyond good hair and humping . 
+ERROR (neg classed as pos 0.95):for the most part , i spy was an amusing lark that will probably rank as one of murphy's better performances in one of his lesser-praised movies . 
+ERROR (neg classed as pos 0.89):[director] byler may yet have a great movie in him , but charlotte sometimes is only half of one . 
+ERROR (neg classed as pos 0.60):i didn't laugh at the ongoing efforts of cube , and his skinny buddy mike epps , to make like laurel and hardy 'n the hood . 
+ERROR (neg classed as pos 0.98):diane lane shines in unfaithful . almost everything else is wan . 
+ERROR (neg classed as pos 0.99):proof that a thriller can be sleekly shot , expertly cast , paced with crisp professionalism . . . and still be a letdown if its twists and turns hold no more surprise than yesterday's weather report . 
+ERROR (neg classed as pos 0.81):this kind of dark comedy requires a delicate , surgical touch . but director danny devito and screenwriter adam resnick ( remember cabin boy ? ) just pound away . 
+ERROR (neg classed as pos 0.86):if this is the danish idea of a good time , prospective tourists might want to consider a different destination -- some jolly country embroiled in a bloody civil war , perhaps . 
+ERROR (neg classed as pos 0.50):a harmless and mildly amusing family comedy . 
+ERROR (neg classed as pos 0.90):a gorgeous , somnolent show that is splendidly mummified and thoroughly unsurprising . 
+ERROR (neg classed as pos 0.67):martin scorsese cria um espetáculo visual que não possui alma - um filme esteticamente belo , mas emocionalmente frio . 
+ERROR (neg classed as pos 0.60):a morality tale whose thought-provoking potential is hampered by a made-for-tv look , rigid performances and an asinine 'twist' that brazenly rips off the sixth sense . 
+ERROR (neg classed as pos 0.73):the rest of the plot is impossible to explain without blowing whatever tension there is , although it's more comedy than suspense de palma creates . 
+ERROR (neg classed as pos 0.92):it will probably prove interesting to ram dass fans , but to others it may feel like a parody of the mellow , peace-and-love side of the '60s counterculture . 
+ERROR (neg classed as pos 0.91):mr . wedge and mr . saldanha handle the mix of verbal jokes and slapstick well . their film falters , however , in its adherence to the disney philosophy of required poignancy , a salute that i'd hoped the movie would avoid . 
+ERROR (neg classed as pos 0.82):glib , satirical documentary that fudges facts , makes facile points and engages in the cinematic equivalent of tabloid journalism . 
+ERROR (neg classed as pos 0.89):a cinematic sleeping pill of impressive potency . 
+ERROR (neg classed as pos 0.89): " an entire film about researchers quietly reading dusty old letters . " 
+ERROR (neg classed as pos 0.75):gaghan captures the half-lit , sometimes creepy intimacy of college dorm rooms , a subtlety that makes the silly , over-the-top coda especially disappointing . 
+ERROR (neg classed as pos 0.83):it is depressing , ruthlessly pained and depraved , the movie equivalent of staring into an open wound . 
+ERROR (neg classed as pos 0.79):interesting and thoroughly unfaithful version of carmen
+ERROR (neg classed as pos 0.56):i'm sure there's a teenage boy out there somewhere who's dying for this kind of entertainment . 
+ERROR (neg classed as pos 0.96):blessed with a searing lead performance by ryan gosling ( murder by numbers ) , the movie is powerful and provocative . it's also built on a faulty premise , one it follows into melodrama and silliness . 
+ERROR (neg classed as pos 0.63):it's tough being a black man in america , especially when the man has taken away your car , your work-hours and denied you health insurance . 
+ERROR (neg classed as pos 0.98):authentic , and at times endearing , humorous , spooky , educational , but at other times as bland as a block of snow . 
+ERROR (neg classed as pos 0.60):to work , love stories require the full emotional involvement and support of a viewer . that is made almost impossible by events that set the plot in motion . 
+ERROR (neg classed as pos 0.51):a puzzle whose pieces do not fit . some are fascinating and others are not , and in the end , it is almost a good movie . 
+ERROR (neg classed as pos 0.70):a grand fart coming from a director beginning to resemble someone's crazy french grandfather . 
+ERROR (neg classed as pos 0.89):[taylor] takes us on a ride that's consistently surprising , easy to watch -- but , oh , so dumb . 
+ERROR (neg classed as pos 0.83):the most remarkable ( and frustrating ) thing about world traveler , which opens today in manhattan , is that its protagonist , after being an object of intense scrutiny for 104 minutes , remains a complete blank . 
+ERROR (neg classed as pos 0.93):a plodding look at the french revolution through the eyes of aristocrats . 
+ERROR (neg classed as pos 0.70):none of birthday girl's calculated events take us by surprise . . . 
+ERROR (neg classed as pos 0.98):narc can only remind us of brilliant crime dramas without becoming one itself . 
+ERROR (neg classed as pos 0.99):one of those decades-spanning historical epics that strives to be intimate and socially encompassing but fails to do justice to either effort in three hours of screen time . 
+ERROR (neg classed as pos 0.82): . . . the picture's cleverness is ironically muted by the very people who are intended to make it shine . 
+ERROR (neg classed as pos 0.53):at three hours and with very little story or character development , there is plenty of room for editing , and a much shorter cut surely would have resulted in a smoother , more focused narrative without sacrificing any of the cultural intrigue . 
+ERROR (neg classed as pos 0.83):it's at once laughable and compulsively watchable , in its committed dumbness . 
+ERROR (neg classed as pos 0.53):told in scattered fashion , the movie only intermittently lives up to the stories and faces and music of the men who are its subject . 
+ERROR (neg classed as pos 0.89):sandra bullock's best dramatic performance to date ( is ) almost enough to lift ( this ) thrill-kill cat-and-mouser . . . above its paint-by-numbers plot . 
+ERROR (neg classed as pos 0.69):a quaint , romanticized rendering . 
+ERROR (neg classed as pos 0.95):it's quite an achievement to set and shoot a movie at the cannes film festival and yet fail to capture its visual appeal or its atmosphere . 
+ERROR (neg classed as pos 0.94):deserves high marks for political courage but barely gets by on its artistic merits . 
+ERROR (neg classed as pos 0.79):viewing this underdramatized but overstated film is like watching a transcript of a therapy session brought to humdrum life by some freudian puppet . 
+ERROR (neg classed as pos 0.55):wraps itself in the guise of a dark and quirky comedy , but it isn't as quirky as it thinks it is and its comedy is generally mean-spirited . 
+ERROR (neg classed as pos 0.85):one of those staggeringly well-produced , joylessly extravagant pictures that keep whooshing you from one visual marvel to the next , hastily , emptily . 
+ERROR (neg classed as pos 0.71):a chilly , remote , emotionally distant piece . . . so dull that its tagline should be : 'in space , no one can hear you snore . '
+ERROR (neg classed as pos 0.63):when your subject is illusion versus reality , shouldn't the reality seem at least passably real ? 
+ERROR (neg classed as pos 0.71):never inspires more than an interested detachment . 
+ERROR (neg classed as pos 0.76):the movie's gloomy atmosphere is fascinating , though , even if the movie itself doesn't stand a ghost of a chance . 
+ERROR (neg classed as pos 0.80):the soupy end result has the odd distinction of being playful without being fun , too . 
+ERROR (neg classed as pos 0.62):a very slow , uneventful ride around a pretty tattered old carousel . 
+ERROR (neg classed as pos 0.59):a meatballs for the bare-midriff generation . 
+ERROR (neg classed as pos 0.96):well-meaning to a fault , antwone fisher manages the dubious feat of turning one man's triumph of will into everyman's romance comedy . 
+ERROR (neg classed as pos 0.64):a characteristically engorged and sloppy coming-of-age movie . 
+ERROR (neg classed as pos 0.97):while the production details are lavish , film has little insight into the historical period and its artists , particularly in how sand developed a notorious reputation . 
+ERROR (neg classed as pos 0.52):[t]he ideas of revolution #9 are more compelling than the execution
+ERROR (neg classed as pos 0.66):some body is a shaky , uncertain film that nevertheless touches a few raw nerves . 
+ERROR (neg classed as pos 0.94):yo , it's the days of our lives meets electric boogaloo . 
+ERROR (neg classed as pos 0.99):the chateau . . . is less concerned with cultural and political issues than doting on its eccentric characters . 
+ERROR (neg classed as pos 0.97):always destined to be measured against anthony asquith's acclaimed 1952 screen adaptation . 
+ERROR (neg classed as pos 0.80):a sometimes incisive and sensitive portrait that is undercut by its awkward structure and a final veering toward melodrama . 
+ERROR (neg classed as pos 0.80):the niftiest trick perpetrated by the importance of being earnest is the alchemical transmogrification of wilde into austen--and a hollywood-ized austen at that . 
+ERROR (neg classed as pos 0.77):return to never land is much more p . c . than the original version ( no more racist portraits of indians , for instance ) , but the excitement is missing . 
+ERROR (neg classed as pos 0.77):despite its visual virtuosity , 'naqoyqatsi' is banal in its message and the choice of material to convey it . 
+ERROR (neg classed as pos 0.92):seeing as the film lacks momentum and its position remains mostly undeterminable , the director's experiment is a successful one . 
+ERROR (neg classed as pos 0.61):dull , a road-trip movie that's surprisingly short of both adventure and song . 
+ERROR (neg classed as pos 0.68):a well-acted , but one-note film . 
+ERROR (neg classed as pos 0.80):nearly all the fundamentals you take for granted in most films are mishandled here . 
+ERROR (neg classed as pos 0.95):ultimately this is a frustrating patchwork : an uneasy marriage of louis begley's source novel ( about schmidt ) and an old payne screenplay . 
+ERROR (neg classed as pos 0.60):a small independent film suffering from a severe case of hollywood-itis . 
+ERROR (neg classed as pos 1.00):it takes you somewhere you're not likely to have seen before , but beneath the exotic surface ( and exotic dancing ) it's surprisingly old-fashioned . 
+ERROR (neg classed as pos 0.99):this is an insultingly inept and artificial examination of grief and its impacts upon the relationships of the survivors . 
+ERROR (neg classed as pos 0.74):those eternally devoted to the insanity of black will have an intermittently good time . feel free to go get popcorn whenever he's not onscreen . 
+ERROR (neg classed as pos 0.84):if you're really renting this you're not interested in discretion in your entertainment choices , you're interested in anne geddes , john grisham , and thomas kincaid . 
+Results for: Films  (Test Data, Naive Bayes)	
+  Total samples:    1116
+  Accuracy:        0.7796
+  Positive class - Precision: 0.7912, Recall: 0.7774
+  Negative class - Precision: 0.7677, Recall: 0.7819
+  F1 (positive):   0.7842
+
+Dictionary-based classification
+ERROR (pos→neg): ultimately , it ponders the reasons we need stories so much . 
+ERROR (pos→neg): guaranteed to move anyone who ever shook , rattled , or rolled . 
+ERROR (pos→neg): ms . fulford-wierzbicki is almost spooky in her sulky , calculating lolita turn . 
+ERROR (pos→neg): like most bond outings in recent years , some of the stunts are so outlandish that they border on being cartoonlike . a heavy reliance on cgi technology is beginning to creep into the series . 
+ERROR (pos→neg): a real movie , about real people , that gives us a rare glimpse into a culture most of us don't know . 
+ERROR (pos→neg): tender yet lacerating and darkly funny fable . 
+ERROR (pos→neg): it's this memory-as-identity obviation that gives secret life its intermittent unease , reaffirming that long-held illusions are indeed reality , and that erasing them recasts the self . 
+ERROR (pos→neg): i admired it , particularly that unexpected downer of an ending . 
+ERROR (pos→neg): nearly surreal , dabbling in french , this is no simple movie , and you'll be taking a risk if you choose to see it . i enjoyed the ride ( bumps and all ) , creamy depth , and ultimate theme . 
+ERROR (pos→neg): asia authors herself as anna battista , an italian superstar and aspiring directress who just happens to be her own worst enemy . 
+ERROR (pos→neg):  . . . tunney is allowed to build an uncommonly human character , an almost real-live girl complete with trouble and hope . 
+ERROR (pos→neg): this is such a high-energy movie where the drumming and the marching are so excellent , who cares if the story's a little weak . 
+ERROR (pos→neg): attal mixes comedy with a serious exploration of ego and jealousy within a seemingly serene marriage . 
+ERROR (pos→neg): while not all transitions to adulthood are so fraught , there's much truth and no small amount of poetry in girls can't swim . 
+ERROR (pos→neg): one hour photo is an intriguing snapshot of one man and his delusions ; it's just too bad it doesn't have more flashes of insight . 
+ERROR (pos→neg): it represents better-than-average movie-making that doesn't demand a dumb , distracted audience . 
+ERROR (pos→neg): there are moments in this account of the life of artist frida kahlo that are among cinema's finest this year . unfortunately , they're sandwiched in between the most impossibly dry account of kahlo's life imaginable . 
+ERROR (pos→neg): a distant , even sterile , yet compulsively watchable look at the sordid life of hogan's heroes star bob crane . 
+ERROR (pos→neg): as the story moves inexorably through its seven day timeframe , the picture becomes increasingly mesmerizing . 
+ERROR (pos→neg): elling really is about a couple of crazy guys , and it's therapeutic to laugh along with them . 
+ERROR (pos→neg): a bowel-curdling , heart-stopping recipe for terror . 
+ERROR (pos→neg): it's a count for our times . 
+ERROR (pos→neg): a romantic comedy , yes , but one with characters who think and talk about their goals , and are working on hard decisions . 
+ERROR (pos→neg): possession is elizabeth barrett browning meets nancy drew , and it's directed by . . . neil labute . hmm . 
+ERROR (pos→neg): windtalkers celebrates the human spirit and packs an emotional wallop . 
+ERROR (pos→neg): a journey through memory , a celebration of living , and a sobering rumination on fatality , classism , and ignorance . 
+ERROR (pos→neg): branagh , in his most forceful non-shakespeare screen performance , grounds even the softest moments in the angry revolt of his wit . 
+ERROR (pos→neg): as blunt as it is in depicting child abuse , el bola is a movie steeped in an ambiguity that lends its conflicts a symbolic resonance . 
+ERROR (pos→neg): what " empire " lacks in depth it makes up for with its heart . 
+ERROR (pos→neg): don't expect any surprises in this checklist of teamwork cliches . . . 
+ERROR (pos→neg): gets under the skin of a man who has just lost his wife . 
+ERROR (pos→neg): it may not be " last tango in paris " but . . . 
+ERROR (pos→neg): a beautiful and haunting examination of the stories we tell ourselves to make sense of the mundane horrors of the world . 
+ERROR (pos→neg): the plot is so amusingly contrived and outlandish in its coincidences that no one could ever mistake it for anything resembling reality
+ERROR (pos→neg): bright seems alternately amused and disgusted with this material , and he can't help throwing in a few of his own touches . 
+ERROR (pos→neg): about nowhere kids who appropriated turfs as they found them and become self-made celebrity athletes -- a low-down version of the american dream . 
+ERROR (pos→neg): enjoy it for what it is ; you can hate yourself later . 
+ERROR (pos→neg): a psychological thriller with a smart script and an obsessive-compulsive's attention to detail . 
+ERROR (pos→neg): the film is all a little lit crit 101 , but it's extremely well played and often very funny . 
+ERROR (pos→neg): it's absolutely spooky how lillard channels the shagster right down to the original casey kasem-furnished voice . 
+ERROR (pos→neg): occasionally funny , always very colorful and enjoyably overblown in the traditional almodóvar style . 
+ERROR (pos→neg): a charming , quirky and leisurely paced scottish comedy -- except with an outrageous central gimmick that could have been a reject from monty python's meaning of life . 
+ERROR (pos→neg): a sly game of cat and mouse that's intense and thrilling at times , but occasionally stretches believability to its limits and relies on predictable plot contrivances . 
+ERROR (pos→neg): sits uneasily as a horror picture . . . but finds surprising depth in its look at the binds of a small family . 
+ERROR (pos→neg): a wildly funny prison caper . 
+ERROR (pos→neg): there was time on that second round to see the subtleties of ramsay's portrait of grief . 
+ERROR (pos→neg): a perverse little truffle , dainty psychological terror on the outside with a creamy filling of familial jealousy and unrepentant domestic psychopathy . 
+ERROR (pos→neg): it takes this never-ending confusion and hatred , puts a human face on it , evokes shame among all who are party to it and even promotes understanding . 
+ERROR (pos→neg): there has been much puzzlement among critics about what the election symbolizes . i believe the message is in the messenger : the agent is a woman . 
+ERROR (pos→neg): the film is painfully authentic , and the performances of the young players are utterly convincing . 
+ERROR (pos→neg): jagger the actor is someone you want to see again . 
+ERROR (pos→neg): nothing's at stake , just a twisty double-cross you can smell a mile away--still , the derivative nine queens is lots of fun . 
+ERROR (pos→neg): you'll gasp appalled and laugh outraged and possibly , watching the spectacle of a promising young lad treading desperately in a nasty sea , shed an errant tear . 
+ERROR (pos→neg): an infectious cultural fable with a tasty balance of family drama and frenetic comedy . 
+ERROR (pos→neg): dense with characters and contains some thrilling moments . 
+ERROR (pos→neg): the film tunes into a grief that could lead a man across centuries . 
+ERROR (pos→neg): even in its most tedious scenes , russian ark is mesmerizing . 
+ERROR (pos→neg): it deserves to be seen by anyone with even a passing interest in the events shaping the world beyond their own horizons . 
+ERROR (pos→neg): one of creepiest , scariest movies to come along in a long , long time , easily rivaling blair witch or the others . 
+ERROR (pos→neg): ahhhh . . . revenge is sweet ! 
+ERROR (pos→neg): dazzling in its complexity , disturbing for its extraordinary themes , the piano teacher is a film that defies categorisation . it haunts , horrifies , startles and fascinates ; it is impossible to look away . ah yes , and then there's the music . . . 
+ERROR (pos→neg):  " the ring " is pretty much an english-language copy of the film that inspired it , and it carries the same strengths and flaws . 
+ERROR (pos→neg): it's one heck of a character study -- not of hearst or davies but of the unique relationship between them . 
+ERROR (pos→neg): creepy , authentic and dark . this disturbing bio-pic is hard to forget . 
+ERROR (pos→neg): it's so good that you can practically see the hollywood 'suits' trying to put together the cast and filmmaking team for the all-too -inevitable american remake . 
+ERROR (pos→neg):  . . . with " the bourne identity " we return to the more traditional action genre . 
+ERROR (pos→neg): holy mad maniac in a mask , splat-man ! good old-fashioned slash-and-hack is back ! 
+ERROR (pos→neg): as unseemly as its title suggests . 
+ERROR (pos→neg): gives you the steady pulse of life in a beautiful city viewed through the eyes of a character who , in spite of tragic loss and increasing decrepitude , knows in his bones that he is one of the luckiest men alive . 
+ERROR (pos→neg): open-minded kids -- kids who read , kids who dream -- will be comforted by the way it deals with big issues like death and destiny . 
+ERROR (pos→neg): bennett's naturalistic performance speaks volumes more truth than any 'reality' show , and anybody contemplating their own drastic life changes should watch some body first . 
+ERROR (pos→neg): it's hard to imagine alan arkin being better than he is in this performance . 
+ERROR (pos→neg): [majidi] makes us think twice about immigrants we see around us every day . 
+ERROR (pos→neg): further proof that the epicenter of cool , beautiful , thought-provoking foreign cinema is smack-dab in the middle of dubya's axis of evil . 
+ERROR (pos→neg): my wife is an actress is an utterly charming french comedy that feels so american in sensibility and style it's virtually its own hollywood remake . 
+ERROR (pos→neg): deliriously funny , fast and loose , accessible to the uninitiated , and full of surprises
+ERROR (pos→neg): what the film lacks in general focus it makes up for in compassion , as corcuera manages to find the seeds of hope in the form of collective action . 
+ERROR (pos→neg): viewers of " the ring " are more likely to remember the haunting images than the plot holes . 
+ERROR (pos→neg): jones . . . does offer a brutal form of charisma . 
+ERROR (pos→neg): the movie does a good job of laying out some of the major issues that we encounter as we journey through life . 
+ERROR (pos→neg): it's a demented kitsch mess ( although the smeary digital video does match the muddled narrative ) , but it's savvy about celebrity and has more guts and energy than much of what will open this year . 
+ERROR (pos→neg): a movie with a real anarchic flair . 
+ERROR (pos→neg): allen shows he can outgag any of those young whippersnappers making moving pictures today . 
+ERROR (pos→neg): a fascinating , dark thriller that keeps you hooked on the delicious pulpiness of its lurid fiction . 
+ERROR (pos→neg): a no-holds-barred cinematic treat . 
+ERROR (pos→neg): enough may pander to our basest desires for payback , but unlike many revenge fantasies , it ultimately delivers . 
+ERROR (pos→neg): a touching , small-scale story of family responsibility and care in the community . 
+ERROR (pos→neg):  . . . a triumph of emotionally and narratively complex filmmaking . 
+ERROR (pos→neg): the last scenes of the film are anguished , bitter and truthful . mr . koshashvili is a director to watch . 
+ERROR (pos→neg): an enjoyable , if occasionally flawed , experiment . 
+ERROR (pos→neg): strange it is , but delightfully so . 
+ERROR (pos→neg): definitely funny stuff , but it's more of the 'laughing at' variety than the 'laughing with . '
+ERROR (pos→neg): strange , funny , twisted , brilliant and macabre . 
+ERROR (pos→neg): melodrama with a message . 
+ERROR (pos→neg): bogdanovich taps deep into the hearst mystique , entertainingly reenacting a historic scandal . 
+ERROR (pos→neg): an oddity , to be sure , but one that you might wind up remembering with a degree of affection rather than revulsion . 
+ERROR (pos→neg): quitting delivers a sucker-punch , and its impact is all the greater beause director zhang's last film , the cuddly shower , was a non-threatening multi-character piece centered around a public bath house . 
+ERROR (pos→neg): by not averting his eyes , solondz forces us to consider the unthinkable , the unacceptable , the unmentionable . 
+ERROR (pos→neg): an amusing and unexpectedly insightful examination of sexual jealousy , resentment and the fine line between passion and pretence . 
+ERROR (pos→neg): i'll put it this way : if you're in the mood for a melodrama narrated by talking fish , this is the movie for you . 
+ERROR (pos→neg): berry's saucy , full-bodied performance gives this aging series a much needed kick , making " die another day " one of the most entertaining bonds in years
+ERROR (pos→neg): muccino seems to be exploring the idea of why human beings long for what they don't have , and how this gets us in trouble . but even while his characters are acting horribly , he is always sympathetic . 
+ERROR (pos→neg): life on the rez is no picnic : this picture shows you why . 
+ERROR (pos→neg): spielberg has managed to marry science fiction with film noir and action flicks with philosophical inquiry . 
+ERROR (pos→neg): there's . . . an underlying old world sexism to monday morning that undercuts its charm . 
+ERROR (pos→neg): graças às interações entre seus personagens , o filme torna-se não apenas uma história divertida sobre uma curiosa perseguição , mas também um belo estudo de personagens . 
+ERROR (pos→neg): ultimately engages less for its story of actorly existential despair than for its boundary-hopping formal innovations and glimpse into another kind of chinese 'cultural revolution . '
+ERROR (pos→neg): it ain't art , by a long shot , but unlike last year's lame musketeer , this dumas adaptation entertains . 
+ERROR (pos→neg): a spiffy animated feature about an unruly adolescent boy who is yearning for adventure and a chance to prove his worth . 
+ERROR (pos→neg): a moving , if uneven , success . 
+ERROR (pos→neg): collateral damage is trash , but it earns extra points by acting as if it weren't . 
+ERROR (pos→neg): passions , obsessions , and loneliest dark spots are pushed to their most virtuous limits , lending the narrative an unusually surreal tone . 
+ERROR (pos→neg): instead of hitting the audience over the head with a moral , schrader relies on subtle ironies and visual devices to convey point of view . 
+ERROR (pos→neg): fubar is very funny , but not always in a laugh-out-loud way . 
+ERROR (pos→neg): [the digital effects] reminded me of terry gilliam's rudimentary old monty python cartoons , in which he would cut out figures from drawings and photographs and paste them together . 
+ERROR (pos→neg): this may be dover kosashvili's feature directing debut , but it looks an awful lot like life -- gritty , awkward and ironic . 
+ERROR (pos→neg): the sweetest thing , a romantic comedy with outrageous tendencies , may be a mess in a lot of ways . but it does have one saving grace . a lot of its gags and observations reflect a woman's point-of-view . 
+ERROR (pos→neg): i am not generally a huge fan of cartoons derived from tv shows , but hey arnold ! the movie is clever , offbeat and even gritty enough to overcome my resistance . 
+ERROR (pos→neg): a penetrating , potent exploration of sanctimony , self-awareness , self-hatred and self-determination . 
+ERROR (pos→neg): although mainstream american movies tend to exploit the familiar , every once in a while a film arrives from the margin that gives viewers a chance to learn , to grow , to travel . 
+ERROR (pos→neg):  . . . in no way original , or even all that memorable , but as downtown saturday matinee brain candy , it doesn't disappoint . 
+ERROR (pos→neg): vincent gallo is right at home in this french shocker playing his usual bad boy weirdo role . 
+ERROR (pos→neg): it's about as convincing as any other arnie musclefest , but has a little too much resonance with real world events and ultimately comes off as insultingly simplistic . 
+ERROR (pos→neg): your response to its new sequel , analyze that , may hinge on what you thought of the first film . 
+ERROR (pos→neg): witherspoon puts to rest her valley-girl image , but it's dench who really steals the show . 
+ERROR (pos→neg): this starts off with a 1950's doris day feel and it gets very ugly , very fast . the first five minutes will have you talking 'til the end of the year ! 
+ERROR (pos→neg): discursive but oddly riveting documentary . 
+ERROR (pos→neg): foster and whitaker are especially fine . she is a lioness , protecting her cub , and he a reluctant villain , incapable of controlling his crew . 
+ERROR (pos→neg): robert harmon's less-is-more approach delivers real bump-in -the-night chills -- his greatest triumph is keeping the creepy crawlies hidden in the film's thick shadows . 
+ERROR (pos→neg): it's virtually impossible to like any of these despicable characters . 
+ERROR (pos→neg): el título no engaña : la película narra una historia donde una mujer enfrentará cierta realidad , y donde el sexo es . . . 
+ERROR (pos→neg): land , people and narrative flow together in a stark portrait of motherhood deferred and desire explored . 
+ERROR (pos→neg): deliciously slow . 
+ERROR (pos→neg): takashi miike keeps pushing the envelope : ichi the killer
+ERROR (pos→neg): with spy kids 2 : the island of lost dreams , however , robert rodriguez adorns his family-film plot with an elegance and maturity that even most contemporary adult movies are lacking . 
+ERROR (pos→neg): what lee does so marvelously compelling is present brown as a catalyst for the struggle of black manhood in restrictive and chaotic america . . . sketchy but nevertheless gripping portrait of jim brown , a celebrated wonder in the spotlight
+ERROR (pos→neg): the audacity to view one of shakespeare's better known tragedies as a dark comedy is , by itself , deserving of discussion . 
+ERROR (pos→neg): an uncomfortable experience , but one as brave and challenging as you could possibly expect these days from american cinema . 
+ERROR (pos→neg): a quiet family drama with a little bit of romance and a dose of darkness . 
+ERROR (pos→neg): a charmer from belgium . 
+ERROR (pos→neg): maelstrom is a deliberately unsteady mixture of stylistic elements . 
+ERROR (pos→neg): [ramsay] visually transforms the dreary expanse of dead-end distaste the characters inhabit into a poem of art , music and metaphor . 
+ERROR (pos→neg): could this be the first major studio production shot on video tape instead of film ? 
+ERROR (pos→neg): an estrogen opera so intensely feminine that it serves as the antidote ( and cannier doppelganger ) to diesel's xxx flex-a-thon . 
+ERROR (pos→neg): amy and matthew have a bit of a phony relationship , but the film works in spite of it . 
+ERROR (pos→neg): leave it to the french to truly capture the terrifying angst of the modern working man without turning the film into a cheap thriller , a dumb comedy or a sappy melodrama . 
+ERROR (pos→neg): though lan yu lacks a sense of dramatic urgency , the film makes up for it with a pleasing verisimilitude . 
+ERROR (pos→neg): but this is not a movie about an inhuman monster ; it's about a very human one . 
+ERROR (pos→neg): audacious-impossible yet compelling . . . 
+ERROR (pos→neg): for most of its footage , the new thriller proves that director m . night shyamalan can weave an eerie spell and that mel gibson can gasp , shudder and even tremble without losing his machismo . 
+ERROR (pos→neg): what could have easily become a cold , calculated exercise in postmodern pastiche winds up a powerful and deeply moving example of melodramatic moviemaking . 
+ERROR (pos→neg): lacks the inspiration of the original and has a bloated plot that stretches the running time about 10 minutes past a child's interest and an adult's patience . but it also has many of the things that made the first one charming . 
+ERROR (pos→neg): brims with passion : for words , for its eccentric , accident-prone characters , and for the crazy things that keep people going in this crazy life . 
+ERROR (pos→neg): birthday girl walks a tricky tightrope between being wickedly funny and just plain wicked . 
+ERROR (pos→neg): mordantly funny and intimately knowing . . . 
+ERROR (pos→neg): much of all about lily chou-chou is mesmerizing : some of its plaintiveness could make you weep . 
+ERROR (pos→neg): an old-fashioned scary movie , one that relies on lingering terror punctuated by sudden shocks and not constant bloodshed punctuated by flying guts . 
+ERROR (pos→neg): that rare documentary that incorporates so much of human experience -- drama , conflict , tears and surprise -- that it transcends the normal divisions between fiction and nonfiction film . 
+ERROR (pos→neg): when you think you've figured out bielinsky's great game , that's when you're in the most trouble : he's the con , and you're just the mark . 
+ERROR (pos→neg): the film has a kind of hard , cold effect . 
+ERROR (pos→neg): ryan gosling is , in a word , brilliant as the conflicted daniel . 
+ERROR (pos→neg): takes a simple premise and carries it to unexpected heights . 
+ERROR (pos→neg): to get at the root psychology of this film would require many sessions on the couch of dr . freud . 
+ERROR (pos→neg): this enthralling documentary . . . is at once playful and haunting , an in-depth portrait of an iconoclastic artist who was fundamentally unknowable even to his closest friends . 
+ERROR (pos→neg): a psychic journey deep into the very fabric of iranian . . . life . 
+ERROR (pos→neg): it trusts the story it sets out to tell . 
+ERROR (pos→neg): morton deserves an oscar nomination . 
+ERROR (pos→neg): a hypnotic cyber hymn and a cruel story of youth culture . 
+ERROR (pos→neg): dogtown & z-boys evokes the blithe rebel fantasy with the kind of insouciance embedded in the sexy demise of james dean . 
+ERROR (pos→neg): if you don't flee , you might be seduced . if you don't laugh , flee . 
+ERROR (pos→neg): now as a former gong show addict , i'll admit it , my only complaint is that we didn't get more re-creations of all those famous moments from the show . 
+ERROR (pos→neg): the movie should jolt you out of your seat a couple of times , give you a few laughs , and leave you feeling like it was worth your seven bucks , even though it does turn out to be a bit of a cheat in the end . 
+ERROR (pos→neg): death to smoochy is often very funny , but what's even more remarkable is the integrity of devito's misanthropic vision . 
+ERROR (pos→neg): it's fun , splashy and entertainingly nasty . 
+ERROR (pos→neg): godard has never made a more sheerly beautiful film than this unexpectedly moving meditation on love , history , memory , resistance and artistic transcendence . 
+ERROR (pos→neg): a wild comedy that could only spring from the demented mind of the writer of being john malkovich . 
+ERROR (pos→neg): the sentimental script has problems , but the actors pick up the slack . 
+ERROR (pos→neg): sayles has an eye for the ways people of different ethnicities talk to and about others outside the group . 
+ERROR (pos→neg): it's up to [watts] to lend credibility to this strange scenario , and her presence succeeds in making us believe . 
+ERROR (pos→neg): aniston has at last decisively broken with her friends image in an independent film of satiric fire and emotional turmoil . 
+ERROR (pos→neg): i know i shouldn't have laughed , but hey , those farts got to my inner nine-year-old . 
+ERROR (pos→neg): the movie , despite its rough edges and a tendency to sag in certain places , is wry and engrossing . 
+ERROR (pos→neg): i'd watch these two together again in a new york minute . 
+ERROR (pos→neg): an often watchable , though goofy and lurid , blast of a costume drama set in the late 15th century . 
+ERROR (pos→neg): may be the most undeserving victim of critical overkill since town and country . 
+ERROR (pos→neg): cuaron repeatedly , perversely undercuts the joie de vivre even as he creates it , giving the movie a mournful undercurrent that places the good-time shenanigans in welcome perspective . 
+ERROR (pos→neg): y tu mamá también es un buen filme gracias a lo poco convencional de su narrativa , y es quizá el proyecto más arriesgado en la carrera de alfonso cuarón
+ERROR (pos→neg): it may be about drug dealers , kidnapping , and unsavory folks , but the tone and pacing are shockingly intimate . 
+ERROR (pos→neg): drumline ably captures the complicated relationships in a marching band . 
+ERROR (pos→neg): what it lacks in originality it makes up for in effective if cheap moments of fright and dread . 
+ERROR (pos→neg): it is life affirming and heartbreaking , sweet without the decay factor , funny and sad . 
+ERROR (pos→neg): matches neorealism's impact by showing the humanity of a war-torn land filled with people who just want to live their lives . 
+ERROR (pos→neg): as directed by dani kouyate of burkina faso , sia lacks visual flair . but kouyate elicits strong performances from his cast , and he delivers a powerful commentary on how governments lie , no matter who runs them . 
+ERROR (pos→neg): an amused indictment of jaglom's own profession . 
+ERROR (pos→neg): most haunting about " fence " is its conclusion , when we hear the ultimate fate of these girls and realize , much to our dismay , that this really did happen . noyce's greatest mistake is thinking that we needed sweeping , dramatic , hollywood moments to keep us
+ERROR (pos→neg): gives everyone something to shout about . 
+ERROR (pos→neg): rich in atmosphere of the post-war art world , it manages to instruct without reeking of research library dust . 
+ERROR (pos→neg): es una de esas películas de las que uno sale reconfortado , agradecido , genuinamente sorprendido . 
+ERROR (pos→neg): mais um momento inspirado de david fincher . 
+ERROR (pos→neg): even before it builds up to its insanely staged ballroom scene , in which 3000 actors appear in full regalia , it's waltzed itself into the art film pantheon . 
+ERROR (pos→neg): if the plot seems a bit on the skinny side , that's because panic room is interested in nothing more than sucking you inand making you sweat . 
+ERROR (pos→neg): a brain twister , less a movie-movie than a funny and weird meditation on hollywood , success , artistic integrity and intellectual bankruptcy . 
+ERROR (pos→neg): shanghai ghetto , much stranger than any fiction , brings this unknown slice of history affectingly to life . 
+ERROR (pos→neg): an ambitious and moving but bleak film . 
+ERROR (pos→neg): painful , horrifying and oppressively tragic , this film should not be missed . 
+ERROR (pos→neg): so fiendishly cunning that even the most jaded cinema audiences will leave the auditorium feeling dizzy , confused , and totally disorientated . not to mention absolutely refreshed . 
+ERROR (pos→neg): while we no longer possess the lack-of-attention span that we did at seventeen , we had no trouble sitting for blade ii . 
+ERROR (pos→neg): by applying definition to both sides of the man , the picture realizes a fullness that does not negate the subject . 
+ERROR (pos→neg): the movie's captivating details are all in the performances , from foreman's barking-mad taylor to thewlis's smoothly sinister freddie and bettany/mcdowell's hard-eyed gangster . 
+ERROR (pos→neg): features fincher's characteristically startling visual style and an almost palpable sense of intensity . 
+ERROR (pos→neg): precocious smarter-than-thou wayward teen struggles to rebel against his oppressive , right-wing , propriety-obsessed family . anyone else seen this before ? 
+ERROR (pos→neg): the film's images give a backbone to the company and provide an emotional edge to its ultimate demise . 
+ERROR (pos→neg): 'pocas veces es posible ver un elenco tan compenetrado con la historia , donde todos y cada uno de los actores ofrecen actuaciones verdaderamente memorables . '
+ERROR (pos→neg): red dragon " never cuts corners . 
+ERROR (pos→neg): mostly , [goldbacher] just lets her complicated characters be unruly , confusing and , through it all , human . 
+ERROR (pos→neg): a gangster movie with the capacity to surprise . 
+ERROR (pos→neg): goldmember is funny enough to justify the embarrassment of bringing a barf bag to the moviehouse . 
+ERROR (pos→neg): the piano teacher is not an easy film . it forces you to watch people doing unpleasant things to each other and themselves , and it maintains a cool distance from its material that is deliberately unsettling . 
+ERROR (pos→neg): despite its faults , gangs excels in spectacle and pacing . 
+ERROR (pos→neg): an old-fashioned but emotionally stirring adventure tale of the kind they rarely make anymore . 
+ERROR (pos→neg): a movie of riveting power and sadness . 
+ERROR (pos→neg): represents a worthy departure from the culture clash comedies that have marked an emerging indian american cinema . 
+ERROR (pos→neg): twohy knows how to inflate the mundane into the scarifying , and gets full mileage out of the rolling of a stray barrel or the unexpected blast of a phonograph record . 
+ERROR (pos→neg): the film boasts dry humor and jarring shocks , plus moments of breathtaking mystery . 
+ERROR (pos→neg): plunges you into a reality that is , more often then not , difficult and sad , and then , without sentimentalizing it or denying its brutality , transforms that reality into a lyrical and celebratory vision . 
+ERROR (pos→neg): the picture's fascinating byways are littered with trenchant satirical jabs at the peculiar egocentricities of the acting breed . 
+ERROR (pos→neg):  . . . planos fijos , tomas largas , un ritmo pausado y una sutil observación de sus personajes , sin estridencias ni grandes revelaciones . 
+ERROR (pos→neg):  . . . strips bible stores of the potential for sanctimoniousness , making them meaningful for both kids and church-wary adults . 
+ERROR (pos→neg): an energizing , intoxicating documentary charting the rise of hip-hop culture in general and the art of scratching ( or turntablism ) in particular . 
+ERROR (pos→neg): for more than two decades mr . nachtwey has traveled to places in the world devastated by war , famine and poverty and documented the cruelty and suffering he has found with an devastating , eloquent clarity . 
+ERROR (pos→neg): though overall an overwhelmingly positive portrayal , the film doesn't ignore the more problematic aspects of brown's life . 
+ERROR (pos→neg): tells ( the story ) with such atmospheric ballast that shrugging off the plot's persnickety problems is simply a matter of ( being ) in a shrugging mood . 
+ERROR (pos→neg): an almost unbearably morbid love story . 
+ERROR (pos→neg): provides a porthole into that noble , trembling incoherence that defines us all . 
+ERROR (neg→pos): the execution is so pedestrian that the most positive comment we can make is that rob schneider actually turns in a pretty convincing performance as a prissy teenage girl . 
+ERROR (neg→pos): there's no doubting that this is a highly ambitious and personal project for egoyan , but it's also one that , next to his best work , feels clumsy and convoluted . 
+ERROR (neg→pos): even in the summertime , the most restless young audience deserves the dignity of an action hero motivated by something more than franchise possibilities . 
+ERROR (neg→pos): some of the computer animation is handsome , and various amusing sidekicks add much-needed levity to the otherwise bleak tale , but overall the film never rises above mediocrity . 
+ERROR (neg→pos): cold and scattered , minority report commands interest almost solely as an exercise in gorgeous visuals . that's not vintage spielberg and that , finally , is minimally satisfying . 
+ERROR (neg→pos): it's not exactly worth the bucks to expend the full price for a date , but when it comes out on video , it's well worth a rental . 
+ERROR (neg→pos): the actresses may have worked up a back story for the women they portray so convincingly , but viewers don't get enough of that background for the characters to be involving as individuals rather than types . 
+ERROR (neg→pos): innocuous enough to make even jean-claude van damme look good . 
+ERROR (neg→pos): amazingly dopey . 
+ERROR (neg→pos): director tom dey demonstrated a knack for mixing action and idiosyncratic humor in his charming 2000 debut shanghai noon , but showtime's uninspired send-up of tv cop show cliches mostly leaves him shooting blanks . 
+ERROR (neg→pos):  . . . while certainly clever in spots , this too-long , spoofy update of shakespeare's macbeth doesn't sustain a high enough level of invention . 
+ERROR (neg→pos): the town has kind of an authentic feel , but each one of these people stand out and everybody else is in the background and it just seems manufactured to me and artificial . 
+ERROR (neg→pos): viewed as a comedy , a romance , a fairy tale , or a drama , there's nothing remotely triumphant about this motion picture . 
+ERROR (neg→pos): pleasant but not more than recycled jock piffle . 
+ERROR (neg→pos): there is one surefire way to get a nomination for a best-foreign-film oscar : make a movie about whimsical folk who learn a nonchallenging , life-affirming lesson while walking around a foreign city with stunning architecture . 
+ERROR (neg→pos): the innocence of holiday cheer ain't what it used to be . 
+ERROR (neg→pos): every sequel you skip will be two hours gained . consider this review life-affirming . 
+ERROR (neg→pos): twenty-three movies into a mostly magnificent directorial career , clint eastwood's efficiently minimalist style finally has failed him . big time . 
+ERROR (neg→pos): a jumbled fantasy comedy that did not figure out a coherent game plan at scripting , shooting or post-production stages . 
+ERROR (neg→pos): bartlett's hero remains a reactive cipher , when opening the man's head and heart is the only imaginable reason for the film to be made . 
+ERROR (neg→pos): starts out with tremendous promise , introducing an intriguing and alluring premise , only to fall prey to a boatload of screenwriting cliches that sink it faster than a leaky freighter . 
+ERROR (neg→pos): bolstered by an astonishing voice cast ( excepting love hewitt ) , an interesting racial tension , and a storyline that i haven't encountered since at least pete's dragon . 
+ERROR (neg→pos): like coming into a long-running , well-written television series where you've missed the first half-dozen episodes and probably won't see the next six . 
+ERROR (neg→pos): this is the first full scale wwii flick from hong kong's john woo . he's not good with people . 
+ERROR (neg→pos): director uwe boll and writer robert dean klein fail to generate any interest in an unsympathetic hero caught up in an intricate plot that while cleverly worked out , cannot overcome blah characters . 
+ERROR (neg→pos): worth seeing once , but its charm quickly fades . 
+ERROR (neg→pos): gere gives a good performance in a film that doesn't merit it . 
+ERROR (neg→pos): were dylan thomas alive to witness first-time director ethan hawke's strained chelsea walls , he might have been tempted to change his landmark poem to , 'do not go gentle into that good theatre . '
+ERROR (neg→pos): occasionally interesting but essentially unpersuasive , a footnote to a still evolving story . 
+ERROR (neg→pos): it's mildly amusing , but i certainly can't recommend it . 
+ERROR (neg→pos): a by-the-numbers effort that won't do much to enhance the franchise . 
+ERROR (neg→pos): overall the film feels like a low-budget tv pilot that could not find a buyer to play it on the tube . 
+ERROR (neg→pos): in the end , we are left with something like two ships passing in the night rather than any insights into gay love , chinese society or the price one pays for being dishonest . 
+ERROR (neg→pos): care deftly captures the wonder and menace of growing up , but he never really embraces the joy of fuhrman's destructive escapism or the grace-in-rebellion found by his characters . 
+ERROR (neg→pos): feels too formulaic and too familiar to produce the transgressive thrills of early underground work . 
+ERROR (neg→pos): as the latest bid in the tv-to-movie franchise game , i spy makes its big-screen entry with little of the nervy originality of its groundbreaking small-screen progenitor . 
+ERROR (neg→pos): there's a solid woman- finding-herself story somewhere in here , but you'd have to dig pretty deep to uncover it . 
+ERROR (neg→pos): the structure the film takes may find matt damon and ben affleck once again looking for residuals as this officially completes a good will hunting trilogy that was never planned . 
+ERROR (neg→pos): the only excitement comes when the credits finally roll and you get to leave the theater . 
+ERROR (neg→pos): who needs love like this ? 
+ERROR (neg→pos): even film silliness needs a little gravity , beyond good hair and humping . 
+ERROR (neg→pos): well , it does go on forever . 
+ERROR (neg→pos):  . . . instead go rent " shakes the clown " , a much funnier film with a similar theme and an equally great robin williams performance . 
+ERROR (neg→pos): you'll have more fun setting fire to yourself in the parking lot . you'll be more entertained getting hit by a bus . 
+ERROR (neg→pos): for the most part , i spy was an amusing lark that will probably rank as one of murphy's better performances in one of his lesser-praised movies . 
+ERROR (neg→pos): [director] byler may yet have a great movie in him , but charlotte sometimes is only half of one . 
+ERROR (neg→pos): i didn't laugh at the ongoing efforts of cube , and his skinny buddy mike epps , to make like laurel and hardy 'n the hood . 
+ERROR (neg→pos): oedekerk wrote patch adams , for which he should not be forgiven . why he was given free reign over this project -- he wrote , directed , starred and produced -- is beyond me . 
+ERROR (neg→pos): morrissette's script and direction show a fair amount of intelligence and wit -- but it doesn't signify a whole lot either . 
+ERROR (neg→pos): can't kick about the assembled talent and the russos show genuine promise as comic filmmakers . still , this thing feels flimsy and ephemeral . 
+ERROR (neg→pos): it's a sometimes interesting remake that doesn't compare to the brilliant original . 
+ERROR (neg→pos): proof that a thriller can be sleekly shot , expertly cast , paced with crisp professionalism . . . and still be a letdown if its twists and turns hold no more surprise than yesterday's weather report . 
+ERROR (neg→pos): if you're looking for comedy to be served up , better look elsewhere . 
+ERROR (neg→pos): the backyard battles you staged with your green plastic army men were more exciting and almost certainly made more sense . 
+ERROR (neg→pos): movies like this are selling the old european candor , the old wink of 'bold' revelation . but in 2002 , such revelations wilt . 
+ERROR (neg→pos): a harmless and mildly amusing family comedy . 
+ERROR (neg→pos): sucking all the 'classic' out of robert louis stevenson's treasure island and filling the void with sci-fi video game graphics and disney-fied adolescent angst . . . 
+ERROR (neg→pos): a gorgeous , somnolent show that is splendidly mummified and thoroughly unsurprising . 
+ERROR (neg→pos): just like the deli sandwich : lots of ham , lots of cheese , with a sickly sweet coating to disguise its excrescence until just after ( or during ) consumption of its second half . 
+ERROR (neg→pos): as is most commonly case with projects such noble and lofty ambitions , the film is less poetic than simply pretentious . 
+ERROR (neg→pos): no , it's not nearly as good as any of its influences . 
+ERROR (neg→pos): it will probably prove interesting to ram dass fans , but to others it may feel like a parody of the mellow , peace-and-love side of the '60s counterculture . 
+ERROR (neg→pos): mr . wedge and mr . saldanha handle the mix of verbal jokes and slapstick well . their film falters , however , in its adherence to the disney philosophy of required poignancy , a salute that i'd hoped the movie would avoid . 
+ERROR (neg→pos): i kept wishing i was watching a documentary about the wartime navajos and what they accomplished instead of all this specious hollywood hoo-ha . 
+ERROR (neg→pos): a cinematic sleeping pill of impressive potency . 
+ERROR (neg→pos): winds up feeling like lots of other quirky movies that try to score hipness points with young adults . 
+ERROR (neg→pos): the film has a few cute ideas and several modest chuckles but it isn't exactly kiddie-friendly alas , santa is more ho-hum than ho-ho-ho and the snowman ( who never gets to play that flute ) has all the charm of a meltdown . 
+ERROR (neg→pos): just entertaining enough not to hate , too mediocre to love . 
+ERROR (neg→pos): kitschy , flashy , overlong soap opera . 
+ERROR (neg→pos): an undistinguished attempt to make a classic theater piece cinematic . 
+ERROR (neg→pos): it's tough being a black man in america , especially when the man has taken away your car , your work-hours and denied you health insurance . 
+ERROR (neg→pos): authentic , and at times endearing , humorous , spooky , educational , but at other times as bland as a block of snow . 
+ERROR (neg→pos): to work , love stories require the full emotional involvement and support of a viewer . that is made almost impossible by events that set the plot in motion . 
+ERROR (neg→pos): a puzzle whose pieces do not fit . some are fascinating and others are not , and in the end , it is almost a good movie . 
+ERROR (neg→pos): definitely in the guilty pleasure b-movie category , reign of fire is so incredibly inane that it is laughingly enjoyable . 
+ERROR (neg→pos): [taylor] takes us on a ride that's consistently surprising , easy to watch -- but , oh , so dumb . 
+ERROR (neg→pos): like being invited to a classy dinner soiree and not knowing anyone . you leave the same way you came -- a few tasty morsels under your belt , but no new friends . 
+ERROR (neg→pos): maybe you'll be lucky , and there'll be a power outage during your screening so you can get your money back . 
+ERROR (neg→pos): if you're over 25 , have an iq over 90 , and have a driver's license , you should be able to find better entertainment . 
+ERROR (neg→pos): one of those so-so films that could have been much better . 
+ERROR (neg→pos): what goes on for the 110 minutes of " panic room " is a battle of witlessness between a not-so-bright mother and daughter and an even less capable trio of criminals . 
+ERROR (neg→pos): a waterlogged version of 'fatal attraction' for the teeny-bopper set . . . a sad , soggy potboiler that wastes the talents of its attractive young leads . 
+ERROR (neg→pos): it's a thin notion , repetitively stretched out to feature length , awash in self-consciously flashy camera effects , droning house music and flat , flat dialogue . 
+ERROR (neg→pos): so aggressively cheery that pollyana would reach for a barf bag . 
+ERROR (neg→pos): helmer hudlin tries to make a hip comedy , but his dependence on slapstick defeats the possibility of creating a more darkly edged tome . 
+ERROR (neg→pos): at three hours and with very little story or character development , there is plenty of room for editing , and a much shorter cut surely would have resulted in a smoother , more focused narrative without sacrificing any of the cultural intrigue . 
+ERROR (neg→pos): sandra bullock's best dramatic performance to date ( is ) almost enough to lift ( this ) thrill-kill cat-and-mouser . . . above its paint-by-numbers plot . 
+ERROR (neg→pos): a quaint , romanticized rendering . 
+ERROR (neg→pos): the movie's heavy-handed screenplay navigates a fast fade into pomposity and pretentiousness . 
+ERROR (neg→pos): a movie like the guys is why film criticism can be considered work . 
+ERROR (neg→pos): when it comes to the battle of hollywood vs . woo , it looks like woo's a p . o . w . 
+ERROR (neg→pos): it's quite an achievement to set and shoot a movie at the cannes film festival and yet fail to capture its visual appeal or its atmosphere . 
+ERROR (neg→pos): the kind of film that leaves you scratching your head in amazement over the fact that so many talented people could participate in such an ill-advised and poorly executed idea . 
+ERROR (neg→pos): deserves high marks for political courage but barely gets by on its artistic merits . 
+ERROR (neg→pos): impostor doesn't do much with its template , despite a remarkably strong cast . 
+ERROR (neg→pos): a work that lacks both a purpose and a strong pulse . 
+ERROR (neg→pos): a nearly 21/2 hours , the film is way too indulgent . 
+ERROR (neg→pos): a " home alone " film that is staged like " rosemary's baby , " but is not as well-conceived as either of those films . 
+ERROR (neg→pos): the movie is like a year late for tapping into our reality tv obsession , and even tardier for exploiting the novelty of the " webcast . " 
+ERROR (neg→pos): the movie spends more time with schneider than with newcomer mcadams , even though her performance is more interesting ( and funnier ) than his . 
+ERROR (neg→pos): humorless , self-conscious art drivel , made without a glimmer of intelligence or invention . 
+ERROR (neg→pos): upper west sidey exercise in narcissism and self-congratulation disguised as a tribute . 
+ERROR (neg→pos): epps has neither the charisma nor the natural affability that has made tucker a star . 
+ERROR (neg→pos): demme gets a lot of flavor and spice into his charade remake , but he can't disguise that he's spiffing up leftovers that aren't so substantial or fresh . 
+ERROR (neg→pos): it almost feels as if the movie is more interested in entertaining itself than in amusing us . 
+ERROR (neg→pos): the soupy end result has the odd distinction of being playful without being fun , too . 
+ERROR (neg→pos): its and pieces of the hot chick are so hilarious , and schneider's performance is so fine , it's a real shame that so much of the movie -- again , as in the animal -- is a slapdash mess . 
+ERROR (neg→pos): mildly amusing . 
+ERROR (neg→pos): i was sent a copyof this film to review on dvd . for free . i still want my money back . 
+ERROR (neg→pos): well-meaning to a fault , antwone fisher manages the dubious feat of turning one man's triumph of will into everyman's romance comedy . 
+ERROR (neg→pos): [jackson and bledel] seem to have been picked not for their acting chops , but for their looks and appeal to the pre-teen crowd . 
+ERROR (neg→pos): while the production details are lavish , film has little insight into the historical period and its artists , particularly in how sand developed a notorious reputation . 
+ERROR (neg→pos): i liked the original short story but this movie , even at an hour and twenty-some minutes , it's too long and it goes nowhere . 
+ERROR (neg→pos): always destined to be measured against anthony asquith's acclaimed 1952 screen adaptation . 
+ERROR (neg→pos): while there's likely very little crossover appeal to those without much interest in the elizabethans ( as well as rank frustration from those in the know about rubbo's dumbed-down tactics ) , much ado about something is an amicable endeavor . 
+ERROR (neg→pos): perry's good and his is an interesting character , but " serving sara " hasn't much more to serve than silly fluff . nor is it a romantic comedy . 
+ERROR (neg→pos): all analyze that proves is that there is really only one movie's worth of decent gags to be gleaned from the premise . 
+ERROR (neg→pos): for something as splendid-looking as this particular film , the viewer expects something special but instead gets [sci-fi] rehash . 
+ERROR (neg→pos): none of this has the suavity or classical familiarity of bond , but much of it is good for a laugh . the problem with " xxx " is that its own action isn't very effective . 
+ERROR (neg→pos): the romance between the leads isn't as compelling or as believable as it should be . 
+ERROR (neg→pos): i walked away not really know who " they " were , what " they " looked like . why " they " were here and what " they " wanted and quite honestly , i didn't care . 
+ERROR (neg→pos): watching " ending " is too often like looking over the outdated clothes and plastic knickknacks at your neighbor's garage sale . you can't believe anyone would really buy this stuff . 
+ERROR (neg→pos): a well-acted , but one-note film . 
+ERROR (neg→pos): those eternally devoted to the insanity of black will have an intermittently good time . feel free to go get popcorn whenever he's not onscreen . 
+ERROR (neg→pos): a film really has to be exceptional to justify a three hour running time , and this isn't . 
+ERROR (neg→pos): the only fun part of the movie is playing the obvious game . you try to guess the order in which the kids in the house will be gored . 
+ERROR (neg→pos): the cast has a high time , but de broca has little enthusiasm for such antique pulp . 
+ERROR (neg→pos): cherish would've worked a lot better had it been a short film . 
+Results for: Films  (Test Data, Rule-Based)	
+  Total samples:    1116
+  Accuracy:        0.6756
+  Positive class - Precision: 0.7271, Recall: 0.5930
+  Negative class - Precision: 0.6383, Recall: 0.7634
+  F1 (positive):   0.6533
+
+NEGATIVE:
+['unfunny', 'generic', 'mediocre', 'routine', 'lame', 'badly', 'mindless', 'boring', 'stale', 'pointless', 'annoying', 'tiresome', 'poorly', 'disguise', 'unless', 'meandering', 'dreary', 'shoot', 'chan', 'harvard', 'offensive', 'bore', 'stupid', 'retread', 'apparently', 'horrible', 'fatal', 'product', 'seagal', 'dull', 'junk', 'sappy', 'stealing', 'amateurish', 'banal', 'wasted', 'nowhere', 'sadly', 'lousy', 'mistake', 'lifeless', 'uninspired', 'pinocchio', 'cable', 'animal', 'pathetic', 'incoherent', 'ballistic', 'plodding', 'stiff', 'leaden', 'tuxedo', 'conceived', 'unintentional', '51', 'supposed', 'waste', 'pacing', 'lacking', 'ill', 'tv', 'inept', 'unfocused', 'obnoxious', 'contains', 'relentlessly', 'bag', 'witless', 'trite', 'putting', 'meant', 'crass', 'choppy', 'missed', 'clumsily', 'crap', 'muddled', 'writers', 'listless', 'stunt', 'unimaginative', 'unnecessary', 'mess', 'britney', 'busy', 'halfway', 'unintentionally', 'hollow', 'bother', 'collateral', 'wannabe', 'exploitative', 'embarrassment', 'kung', 'wilson', 'handful', 'pile', 'vapid', 'rollerball', 'thrown']
+
+POSITIVE:
+['ties', 'innocence', 'secretary', 'melancholy', 'record', 'jealousy', 'sobering', 'exquisitely', 'simplicity', 'leigh', 'gently', 'straightforward', 'finely', 'spooky', 'desperation', 'joyous', 'vivid', 'undeniably', 'gut', 'uncompromising', 'captivating', 'droll', 'scale', 'unflinching', 'cultures', 'sly', 'splendid', 'washington', 'nuanced', 'gradually', 'portrait', 'superbly', 'ingenious', 'answers', 'tasty', 'resist', 'hopeful', 'smarter', 'lovers', 'reminds', 'sadness', 'affecting', 'masterpiece', 'evocative', 'lane', 'startling', 'absorbing', 'wrenching', 'format', 'capture', 'understands', 'heartbreaking', 'timely', 'respect', 'pianist', 'transcends', 'frailty', 'deft', 'explores', 'richly', 'unexpected', 'warm', 'martha', 'lively', 'spare', 'tender', 'subversive', 'playful', 'iranian', 'resonant', 'grown', 'polished', 'vividly', 'provides', 'gentle', 'tour', 'mesmerizing', 'wry', 'touching', 'intense', 'detailed', 'wonderful', 'heartwarming', 'powerful', 'wonderfully', 'unique', 'deftly', 'allows', 'realistic', 'chilling', 'quietly', 'riveting', 'gem', 'delicate', 'refreshingly', 'refreshing', 'intimate', 'inventive', 'captures', 'engrossing']

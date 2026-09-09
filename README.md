@@ -23,17 +23,14 @@ The submitted main script runs **film test Naïve Bayes, film test dictionary ba
 
 Only Python's standard library is imported; no pip packages are required. Archive checks used Python **3.12.14**.
 
-The original `Sentiment.py` is unchanged and reads all six files from the **current working directory**. Two public original Rotten Tomatoes files have been recovered; **the exact Nokia pair and sentiment lexicon pair remain missing**. Even the default film-only evaluation loads the Nokia files first.
-
-After obtaining the four original course files listed in [data requirements](data/README.md), place them in the repository root, then:
+The original `Sentiment.py` is unchanged. **All six required data files have been recovered from the official Blackboard course package** and are in `data/course/`. Run from that directory because the script reads files from its current working directory:
 
 ```bash
-cp data/public_rt/rt-polarity.pos .
-cp data/public_rt/rt-polarity.neg .
-python3 Sentiment.py
+cd data/course
+python3 ../../Sentiment.py
 ```
 
-Windows users can copy the two files with Explorer before running `py Sentiment.py`. Keep the original data encodings. Importing `Sentiment.py` also starts its main script because it has no main guard.
+On Windows, use `py ../../Sentiment.py` from the same directory. Keep the original data encodings. Importing `Sentiment.py` also starts its main script because it has no main guard. The default film-only evaluation still loads the Nokia files.
 
 ## Reported results / 报告中的结果
 
@@ -49,7 +46,9 @@ These are **historical report values**, not results reproduced during archiving.
 
 ## Validation and limits
 
-Syntax compilation passed. A controlled check invoked the **original Bayes functions** on 64 real public RT training examples and 20 held-out examples. It completed successfully without network access or synthetic data. This only checks that those functions execute; the full script, dictionary methods and historical metrics were not reproduced because original data dependencies are incomplete.
+On 9 September 2026, the **complete unchanged submitted script ran successfully using all six official course files** in an isolated copy. Its new random split contained 9,547 training and 1,116 test sentence keys. Film-test accuracy was **0.7796 for Bayes** and **0.6756 for the dictionary baseline**. Source and data bytes were unchanged; no external connections occurred.
+
+These are new validation results, not a recreation of the historical report's split. The original script does not fix a random seed. Its commented Nokia and improved-rule evaluations were not executed. The raw output, random state and [verification record](docs/RESULTS.md) are retained separately from the reported metrics. A preliminary small real-data Bayes check is also recorded as an earlier validation step.
 
 The submitted behavior is preserved, including an unseeded split, sentence-keyed dictionaries that can overwrite duplicate/empty records, direct probability products that can underflow, and the original missing-count smoothing. The improved rules inspect one preceding token, so they do not model general negation scope or discourse structure.
 
@@ -57,4 +56,6 @@ The submitted behavior is preserved, including an unseeded split, sentence-keyed
 
 Blackboard: **Assignment – Sentiment Analysis, Attempt 1, 20 November 2025 at 22:17 UTC+8**. Both original attachment checksums are recorded in [provenance](docs/PROVENANCE.md). New commits represent actual archival work on the recovery date; no development history is invented.
 
-The Python file retains coursework scaffold comments and TODO markers. This archive documents the submitted implementation and report, without asserting that every starter-code line was independently authored. The public RT data retains its original Pang/Lee attribution. Course materials and submitted work remain private; no new redistribution license is asserted.
+The official starter script is preserved separately in `course_materials/starter/`. Comparing it with the submitted file identifies added lexicon loading, evaluation metrics, dictionary error output, the improved-rule function and enabled diagnostic calls. The base Bayes learner and other supplied helpers are course scaffolding. [Contribution notes](docs/CONTRIBUTIONS.md) describe the difference.
+
+RT data retains Pang/Lee attribution; the course lexicons retain their Hu/Liu citation headers. Course materials and submitted work remain private; no new redistribution license is asserted.

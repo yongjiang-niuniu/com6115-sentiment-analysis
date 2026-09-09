@@ -18,6 +18,19 @@ The [Blackboard assessment](https://vle.shef.ac.uk/ultra/courses/_123516_1/asses
 
 The 10-page PDF and submitted Python file are byte-for-byte unchanged. The PDF was read in full; result tables were also visually checked. A repeated Python attachment download matched the same checksum and was not duplicated.
 
-Archive additions are documentation, transcribed report metrics, verification evidence and the clearly separated public RT dependency. No implementation behavior was changed, no generated experiment outputs were substituted for the report, and no past commit dates were invented.
+## Official course materials
 
-The report is the user's submitted coursework. Original scaffold-like comments remain in the code; the exact course starter-code boundary has not been reconstructed. Dataset attribution and original documentation are preserved. This repository remains private.
+The same Blackboard assessment's read-only **View instructions** page supplied `Code_data.zip` and an assignment brief. [Acquisition and per-file manifest](provenance/course-materials.json) records source, checksums and safe extraction checks.
+
+| Download | Bytes | SHA-256 |
+|---|---:|---|
+| `Code_data.zip` | 530,003 | `73dfdf02cb422de04663e48d18df6e6b926ba024f8429efd40ebef096f7fbb33` |
+| `COM6115-SA-assignment 24-25_V1-1.pdf` | 178,684 | `8c27dd1f5fd097c896578792c1c38593b71f07f3071c9f9f419800173006674e` |
+
+The brief was displayed as **COM6115-SA-assignment25-26.pdf**, but the actual downloaded filename is **COM6115-SA-assignment 24-25_V1-1.pdf**. Its real filename and original bytes are retained in `course_materials/`; the naming discrepancy has not been silently corrected.
+
+All six data files and the starter Python file were copied unchanged. macOS `.DS_Store` and AppleDouble metadata were excluded from the repository; the original ZIP remains in the local raw archive. The data is under `data/course/`, and the starter is under `course_materials/starter/`.
+
+Archive additions include documentation, transcribed report metrics, verification evidence, official supporting files and the earlier public RT recovery. Both RT copies match. No model behavior was changed, no new run replaced the report, and no past commit dates were invented. Earlier recovery records describe their acquisition-time state; all data dependencies are now available.
+
+The official starter now establishes the supplied scaffold and the changes in the submitted implementation; see [contribution comparison](CONTRIBUTIONS.md). Dataset attribution and original documentation remain intact. This repository remains private.

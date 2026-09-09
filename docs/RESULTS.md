@@ -20,13 +20,30 @@ The report text describes a film-test improvement from rule extensions, but its 
 
 The submitted default main calls only film-test Bayes, film-test baseline dictionary and informative-word output. The report's training, Nokia and improved-rule evaluations require other calls that are commented out in the submitted file. The default Bayes prior is 0.5; the commented Nokia Bayes call specifies 0.7. Original data and experiment settings would be needed to reconstruct the full tables.
 
-## Archive checks on 9 September 2026
+## Complete submitted-script verification on 9 September 2026
+
+After recovering the official course package, the unchanged script ran to completion under Python 3.12.14 using all six original data files in an isolated copy. Network connections were blocked and none were attempted. No seed override was applied; the initial random state was captured before execution.
+
+| Check | Result |
+|---|---|
+| Script exit | 0, completed |
+| Training / test sentence keys | 9,547 / 1,116 |
+| Training/test overlapping keys in this run | 0 |
+| Nokia keys loaded / unique lexicon keys | 266 / 6,786 |
+| Film-test Bayes accuracy / F1 (+) | 0.7796 / 0.7842 |
+| Film-test baseline dictionary accuracy / F1 (+) | 0.6756 / 0.6533 |
+
+These are **new verification results** on an unseeded split, not reproduced historical tables. They cover the two active classification calls and informative-word output. Nokia data loaded successfully, but the Nokia evaluation and improved-rule calls remained commented out and were not executed. Original source and data bytes remained unchanged.
+
+Evidence: [full run record](validation/full_run.json), [original console output](validation/full_script_output.txt), [initial random state](validation/initial_random_state.json). The random-state record belongs only to this new archive verification run.
+
+## Earlier bounded check
 
 Python 3.12.14 compiled the original source successfully. A bounded check loaded only the original function definitions, avoiding top-level file loading, then called `trainBayes`, `testBayes` and `mostUseful` on public original RT records: first 32 nonempty LF-delimited records per polarity for training and the next 10 per polarity held out. No synthetic data or full-corpus training was used; network connections were blocked.
 
-The 64-training/20-held-out check completed successfully. It verifies execution of those original functions, **not** the report's accuracy or exact original experiment. Original code bytes were unchanged; error-example printing was suppressed in the isolated namespace. Dictionary methods and the full script were not run because exact Nokia/lexicon dependencies remain unavailable.
+The 64-training/20-held-out check completed successfully before the official supporting files were recovered. It verified those original functions, not report accuracy. Original code bytes were unchanged; error-example printing was suppressed in its isolated namespace. The full-script check above supersedes that earlier data-gap status.
 
-[Structured verification record](validation.json) records the source checksum, sample sizes, interpreter and scope. No mirror implementation or new model code was added.
+[Initial smoke record](validation/initial_smoke.json) records its acquisition-time data gap and limited scope. No mirror implementation or new model code was added.
 
 ## Preserved implementation limits
 

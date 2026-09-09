@@ -1,0 +1,44 @@
+{
+  "verified_at_utc": "2026-09-09T11:12:19.264630+00:00",
+  "python": "3.12.14",
+  "full_submitted_script_completed": true,
+  "exit_code": 0,
+  "source_sha256": "74cf27e9cd1fbf8f9561985bef3cd437f92dfd2dad74a2238a856b2deceec4c6",
+  "course_data_files_used": 6,
+  "original_source_and_data_bytes_unchanged": true,
+  "random_seed_override": false,
+  "initial_python_random_state_recorded": true,
+  "elapsed_seconds": 0.0531,
+  "training_sentence_keys": 9547,
+  "test_sentence_keys": 1116,
+  "nokia_sentence_keys_loaded": 266,
+  "training_test_overlap_keys": 0,
+  "lexicon_entries": 6786,
+  "network_attempts": [],
+  "metrics": [
+    {
+      "dataset": "Films  (Test Data, Naive Bayes)",
+      "samples": 1116,
+      "accuracy": 0.7796,
+      "precision_positive": 0.7912,
+      "recall_positive": 0.7774,
+      "precision_negative": 0.7677,
+      "recall_negative": 0.7819,
+      "f1_positive": 0.7842
+    },
+    {
+      "dataset": "Films  (Test Data, Rule-Based)",
+      "samples": 1116,
+      "accuracy": 0.6756,
+      "precision_positive": 0.7271,
+      "recall_positive": 0.593,
+      "precision_negative": 0.6383,
+      "recall_negative": 0.7634,
+      "f1_positive": 0.6533
+    }
+  ],
+  "scope": "New validation run of unchanged submitted defaults using recovered official data. Historical report tables and commented-out experiment calls were not reproduced.",
+  "improved_dictionary_executed": false,
+  "nokia_evaluation_executed": false,
+  "output_sha256": "74de2dfa91c3390e0b1283f0bea4d420a7e8ba75d0bc7027b7ac8b476b5658de"
+}
