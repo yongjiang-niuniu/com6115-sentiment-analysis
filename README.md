@@ -1,61 +1,84 @@
-# COM6115 · Sentiment Analysis
+# Sentiment Analysis · COM6115
 
-谢菲尔德大学 COM6115 情感分析课程项目，比较 **朴素贝叶斯、词典评分和加入否定/程度规则的词典模型**，研究电影评论内的分类效果以及迁移到 Nokia 产品评论时的变化。
+A comparison of three approaches to binary sentiment classification: unigram Naïve Bayes, sentiment-lexicon scoring and lexicon rules for negation and intensity. The project studies both movie-review classification and transfer to Nokia product reviews, with error examples and informative-word analysis.
 
-This private coursework archive preserves Yongjiang Liu's official submitted Python file and report. It compares a unigram Naïve Bayes classifier with lexicon scoring and local negation/intensity rules, including cross-domain analysis.
+中文概述：本项目比较朴素贝叶斯、词典评分与简单语言规则在电影评论和 Nokia 产品评论中的效果。完整课程数据、原始代码、报告及验证记录均已保存，历史报告指标与归档时的运行结果分别列明。
 
-[正式报告 / Report](reports/COM6115_Sentiment_Analysis_Coursework_Report.pdf) · [数据依赖 / Data](data/README.md) · [提交来源 / Provenance](docs/PROVENANCE.md) · [指标与验证 / Results](docs/RESULTS.md)
+## Project at a glance
 
-## What the code contains
+| Field | Details |
+| --- | --- |
+| Course | COM6115, University of Sheffield |
+| Project type | Individual NLP coursework; supervised and rule-based text classification |
+| Technology | Python standard library, unigram features, sentiment lexicons |
+| Inputs | Positive/negative film snippets, Nokia reviews and two sentiment word lists |
+| Status | Submitted code and report preserved; all six required data files available; default script execution verified |
 
-| Component | Submitted implementation |
-|---|---|
-| Data loading | Six named text files; approximate random 90/10 film split, plus Nokia review labels and positive/negative word lists |
-| Naïve Bayes | Regex unigram tokens, class word-frequency probabilities, direct probability multiplication and class priors |
-| Dictionary baseline | Sum `+1` / `-1` for lexicon matches; classify positive at score ≥ 1 |
-| Improved dictionary | Lowercase matching; inspect the immediately preceding token to reverse, double or halve a sentiment word's score |
-| Evaluation | Accuracy, positive/negative precision and recall, and positive-class F1 |
-| Feature inspection | Rank vocabulary by positive versus negative conditional probabilities; print 100 words at each end |
+## What it does
 
-The submitted main script runs **film test Naïve Bayes, film test dictionary baseline and informative-word output**. Nokia evaluation, training-set evaluation and all improved-rule calls are present but commented out. Their presence in the report does not mean the default command runs every reported experiment.
+The program builds word-probability tables from an approximate 90/10 random film-data split, evaluates sentiment predictions and prints accuracy, class-specific precision/recall and positive-class F1. It also displays misclassified sentences and the 100 strongest vocabulary predictors at each end of the polarity ranking.
 
-## Run / 运行
+The submitted default command runs **film-test Naïve Bayes, film-test dictionary scoring and informative-word output**. Nokia evaluation, training-set evaluation and improved-rule calls are included but commented out. The report discusses those additional experiments; they are not all executed by the default command.
 
-Only Python's standard library is imported; no pip packages are required. Archive checks used Python **3.12.14**.
+## Repository guide
 
-The original `Sentiment.py` is unchanged. **All six required data files have been recovered from the official Blackboard course package** and are in `data/course/`. Run from that directory because the script reads files from its current working directory:
+| Location | Contents |
+| --- | --- |
+| [Sentiment.py](Sentiment.py) | Unchanged submitted implementation and default experiment calls |
+| [data/course/](data/course/) | All six official input files used by the loader |
+| [data/README.md](data/README.md) | Dataset counts, encodings and attribution |
+| [course_materials/](course_materials/) | Official brief and starter code for comparison with the submitted work |
+| [Report](reports/COM6115_Sentiment_Analysis_Coursework_Report.pdf) | Original ten-page analysis and historical results |
+| [docs/](docs/README.md) | Results, contribution comparison, provenance and verification evidence |
 
-```bash
+## Getting started
+
+Use Python 3; archive execution was verified with **Python 3.12.14**. The script imports only the standard library, so no pip installation is needed.
+
+From the repository root:
+
+```sh
 cd data/course
 python3 ../../Sentiment.py
 ```
 
-On Windows, use `py ../../Sentiment.py` from the same directory. Keep the original data encodings. Importing `Sentiment.py` also starts its main script because it has no main guard. The default film-only evaluation still loads the Nokia files.
+On Windows, run `py ../../Sentiment.py` from the same directory. The working directory matters because the original loader opens data filenames relative to it. Keep the supplied file encodings. All six files are loaded even when only film classification is enabled.
 
-## Reported results / 报告中的结果
+Expect console output containing classification errors, metrics and word rankings. This is an experiment script, not an interactive prediction service or saved-model package. Importing it also executes its main code because it has no main guard. See the [data guide](data/README.md) for exact file requirements.
 
-These are **historical report values**, not results reproduced during archiving.
+## Design and method
 
-| Method | Film test accuracy | Film test F1 (+) | Nokia accuracy | Nokia F1 (+) |
-|---|---:|---:|---:|---:|
+| Method | Main idea | Role in the comparison |
+| --- | --- | --- |
+| Naïve Bayes | Tokenize with a regular expression, estimate class word probabilities and combine them with a class prior. | Learn domain-specific sentiment associations from labelled film snippets. |
+| Dictionary baseline | Sum positive and negative word-list matches, using a threshold of 1. | Classify without learning sentiment weights from the film training set. |
+| Improved dictionary | Lowercase tokens and inspect the preceding token to reverse, double or halve a matched sentiment score. | Explore local negation, intensifiers and diminishers. |
+
+The evaluation uses positive and negative labels; the reported F1 is for the **positive class**, not macro-F1. The [contribution comparison](docs/CONTRIBUTIONS.md) identifies the student's additions to the supplied Bayes/data-loading scaffold.
+
+## Results and verification
+
+**Historical report results:**
+
+| Method | Film-test accuracy | Film-test F1 (+) | Nokia accuracy | Nokia F1 (+) |
+| --- | ---: | ---: | ---: | ---: |
 | Naïve Bayes | 0.7696 | 0.7667 | 0.5902 | 0.6540 |
 | Dictionary baseline | 0.6808 | 0.6512 | 0.7970 | 0.8492 |
 | Improved dictionary | 0.6611 | 0.6161 | 0.8083 | 0.8563 |
 
-报告正文称规则改进提高了电影测试效果，但表 2/3 显示 `0.6808 → 0.6611`。归档保留原始数字并标注这个不一致；代码没有固定随机种子，不能把这些数值当作同一次固定划分上的改进证明。完整表格见 [结果说明](docs/RESULTS.md)。
+**Archive execution check:** on 9 September 2026, the unchanged script completed with all six official files under Python 3.12.14. Its new random split contained 9,547 training and 1,116 test sentence keys. Film-test accuracy was **0.7796 for Bayes** and **0.6756 for the dictionary baseline**. The original bytes were unchanged, and no network connection was attempted.
 
-## Validation and limits
+That run verifies the active submitted workflow; it does not reproduce the historical split or the commented Nokia/improved-rule experiments. The [results guide](docs/RESULTS.md) contains complete tables, output and the captured random state. This documentation refresh checks navigation and preservation; it does not rerun or replace those experiments.
 
-On 9 September 2026, the **complete unchanged submitted script ran successfully using all six official course files** in an isolated copy. Its new random split contained 9,547 training and 1,116 test sentence keys. Film-test accuracy was **0.7796 for Bayes** and **0.6756 for the dictionary baseline**. Source and data bytes were unchanged; no external connections occurred.
+## Limitations
 
-These are new validation results, not a recreation of the historical report's split. The original script does not fix a random seed. Its commented Nokia and improved-rule evaluations were not executed. The raw output, random state and [verification record](docs/RESULTS.md) are retained separately from the reported metrics. A preliminary small real-data Bayes check is also recorded as an earlier validation step.
+- The random split is unseeded. Sentence-keyed dictionaries can overwrite duplicate or empty records, and the script does not enforce train/test uniqueness.
+- Direct probability multiplication can underflow; missing-count handling is the original course implementation rather than conventional vocabulary-adjusted Laplace smoothing.
+- Rules inspect only one preceding token, so they do not model general negation scope or discourse. The baseline is case-sensitive.
+- The report describes a film-test improvement from the rules, but its tables show accuracy falling from 0.6808 to 0.6611. Those values and the unpaired random splits do not establish that claimed improvement.
 
-The submitted behavior is preserved, including an unseeded split, sentence-keyed dictionaries that can overwrite duplicate/empty records, direct probability products that can underflow, and the original missing-count smoothing. The improved rules inspect one preceding token, so they do not model general negation scope or discourse structure.
+## Attribution and provenance
 
-## Archive and attribution
+Yongjiang Liu's submitted additions include lexicon loading, evaluation metrics, dictionary error diagnostics, local language rules and experiment/report analysis. The Bayes learner and other supplied helpers remain credited as course scaffolding.
 
-Blackboard: **Assignment – Sentiment Analysis, Attempt 1, 20 November 2025 at 22:17 UTC+8**. Both original attachment checksums are recorded in [provenance](docs/PROVENANCE.md). New commits represent actual archival work on the recovery date; no development history is invented.
-
-The official starter script is preserved separately in `course_materials/starter/`. Comparing it with the submitted file identifies added lexicon loading, evaluation metrics, dictionary error output, the improved-rule function and enabled diagnostic calls. The base Bayes learner and other supplied helpers are course scaffolding. [Contribution notes](docs/CONTRIBUTIONS.md) describe the difference.
-
-RT data retains Pang/Lee attribution; the course lexicons retain their Hu/Liu citation headers. Course materials and submitted work remain private; no new redistribution license is asserted.
+The RT data retains Pang/Lee attribution; the lexicons retain their Hu/Liu citation headers. Original code, report and course materials remain unchanged in this private repository. [Provenance](docs/PROVENANCE.md) records the official submission, supporting materials and file hashes; [data attribution](data/README.md) records the dataset sources.
