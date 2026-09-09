@@ -1,0 +1,28 @@
+{
+  "source_url": "https://www.cs.cornell.edu/people/pabo/movie-review-data/rt-polaritydata.tar.gz",
+  "source_page": "https://www.cs.cornell.edu/people/pabo/movie-review-data/",
+  "recovered_on": "2026-09-09",
+  "scope": "Public original sentence polarity v1.0 data identified from report dataset name and exact source filenames; not a Blackboard attachment, and no checksum of the original course copy was available.",
+  "archive_sha256": "a05befe52aafda71d458d188a1c54506a998b1308613ba76bbda2e5029409ce9",
+  "archive_bytes": 487770,
+  "files": [
+    {
+      "original_path": "rt-polaritydata.README.1.0.txt",
+      "file": "rt-polaritydata.README.1.0.txt",
+      "bytes": 1682,
+      "sha256": "67bc8e858b247a20eb5d6dec39d1fca89ea36112872b48ac8fddfb599dadbf49"
+    },
+    {
+      "original_path": "rt-polaritydata/rt-polarity.neg",
+      "file": "rt-polarity.neg",
+      "bytes": 612290,
+      "sha256": "4af43bf489620b498a0852c5a8c6a535155dec7985fdfea782b8f7756b957ccc"
+    },
+    {
+      "original_path": "rt-polaritydata/rt-polarity.pos",
+      "file": "rt-polarity.pos",
+      "bytes": 626168,
+      "sha256": "d79ef14009bbf87cd6be21f91c3ea1a3cbcb73b34dfb4231aef7bbcd7677abc4"
+    }
+  ]
+}
