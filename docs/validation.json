@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-09",
+  "python": "3.12.14",
+  "source_sha256": "74cf27e9cd1fbf8f9561985bef3cd437f92dfd2dad74a2238a856b2deceec4c6",
+  "syntax_compile_passed": true,
+  "bayes_function_smoke_passed": true,
+  "method": "Execute original function definitions only; trainBayes, testBayes and mostUseful on a small real public RT slice. No submitted top-level script run; error-example printing suppressed.",
+  "training_sentences": 64,
+  "held_out_sentences": 20,
+  "selection": "First 32 nonempty LF-delimited records per polarity file for training; next 10 per file held out",
+  "vocabulary_size": 639,
+  "elapsed_seconds": 0.001,
+  "full_historical_experiment_reproduced": false,
+  "full_script_run": false,
+  "dictionary_runtime_tested": false,
+  "missing_original_dependencies": [
+    "nokia-pos.txt",
+    "nokia-neg.txt",
+    "positive-words.txt",
+    "negative-words.txt"
+  ],
+  "reported_metrics_independently_reproduced": false
+}

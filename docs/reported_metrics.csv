@@ -1,0 +1,10 @@
+method,dataset,accuracy,precision_positive,recall_positive,precision_negative,recall_negative,f1_positive,source_table,pdf_page,evidence
+naive_bayes,films_train,0.8899,0.8985,0.8792,0.8818,0.9007,0.8887,1,2,historical_report_not_reproduced
+naive_bayes,films_test,0.7696,0.7771,0.7566,0.7624,0.7826,0.7667,1,2,historical_report_not_reproduced
+naive_bayes,nokia,0.5902,0.7984,0.5538,0.3942,0.6750,0.6540,1,2,historical_report_not_reproduced
+dictionary,films_train,0.6492,0.6792,0.5670,0.6278,0.7317,0.6180,2,3,historical_report_not_reproduced
+dictionary,films_test,0.6808,0.7099,0.6015,0.6598,0.7587,0.6512,2,3,historical_report_not_reproduced
+dictionary,nokia,0.7970,0.8837,0.8172,0.6383,0.7500,0.8492,2,3,historical_report_not_reproduced
+improved_dictionary,films_train,0.6556,0.6864,0.5768,0.6331,0.7349,0.6268,3,4,historical_report_not_reproduced
+improved_dictionary,films_test,0.6611,0.6832,0.5610,0.6465,0.7553,0.6161,3,4,historical_report_not_reproduced
+improved_dictionary,nokia,0.8083,0.8994,0.8172,0.6495,0.7875,0.8563,3,4,historical_report_not_reproduced
