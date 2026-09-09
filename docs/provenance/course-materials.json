@@ -1,0 +1,146 @@
+{
+  "course": "COM6115",
+  "assessment": "Assignment - Sentiment Analysis",
+  "recovered_on": "2026-09-09",
+  "source_url": "https://vle.shef.ac.uk/ultra/courses/_123516_1/assessment/_8632396_1/attempt/create?courseId=_123516_1",
+  "downloaded_via": "View instructions / More options / Download original file; read-only assignment instructions",
+  "scope": "Official course supporting materials, not user-submitted attachments",
+  "brief_display_label": "COM6115-SA-assignment25-26.pdf",
+  "brief_actual_downloaded_filename": "COM6115-SA-assignment 24-25_V1-1.pdf",
+  "files": [
+    {
+      "filename": "Code_data.zip",
+      "bytes": 530003,
+      "sha256": "73dfdf02cb422de04663e48d18df6e6b926ba024f8429efd40ebef096f7fbb33"
+    },
+    {
+      "filename": "COM6115-SA-assignment 24-25_V1-1.pdf",
+      "bytes": 178684,
+      "sha256": "8c27dd1f5fd097c896578792c1c38593b71f07f3071c9f9f419800173006674e"
+    }
+  ],
+  "zip_expanded_bytes": 1348781,
+  "zip_path_safety": "No unsafe absolute/parent/backslash/duplicate/case-collision/symlink/encrypted paths found",
+  "archive_members": [
+    {
+      "path": "Code_data/",
+      "bytes": 0
+    },
+    {
+      "path": "__MACOSX/._Code_data",
+      "bytes": 313
+    },
+    {
+      "path": "Code_data/positive-words.txt",
+      "bytes": 20630
+    },
+    {
+      "path": "__MACOSX/Code_data/._positive-words.txt",
+      "bytes": 426
+    },
+    {
+      "path": "Code_data/.DS_Store",
+      "bytes": 6148
+    },
+    {
+      "path": "__MACOSX/Code_data/._.DS_Store",
+      "bytes": 120
+    },
+    {
+      "path": "Code_data/Sentiment.py",
+      "bytes": 9745
+    },
+    {
+      "path": "__MACOSX/Code_data/._Sentiment.py",
+      "bytes": 276
+    },
+    {
+      "path": "Code_data/rt-polarity.neg",
+      "bytes": 612290
+    },
+    {
+      "path": "__MACOSX/Code_data/._rt-polarity.neg",
+      "bytes": 271
+    },
+    {
+      "path": "Code_data/nokia-neg.txt",
+      "bytes": 8209
+    },
+    {
+      "path": "__MACOSX/Code_data/._nokia-neg.txt",
+      "bytes": 327
+    },
+    {
+      "path": "Code_data/nokia-pos.txt",
+      "bytes": 16532
+    },
+    {
+      "path": "__MACOSX/Code_data/._nokia-pos.txt",
+      "bytes": 327
+    },
+    {
+      "path": "Code_data/negative-words.txt",
+      "bytes": 46301
+    },
+    {
+      "path": "__MACOSX/Code_data/._negative-words.txt",
+      "bytes": 427
+    },
+    {
+      "path": "Code_data/rt-polarity.pos",
+      "bytes": 626168
+    },
+    {
+      "path": "__MACOSX/Code_data/._rt-polarity.pos",
+      "bytes": 271
+    }
+  ],
+  "included_course_files": [
+    {
+      "path": "data/course/rt-polarity.pos",
+      "bytes": 626168,
+      "sha256": "d79ef14009bbf87cd6be21f91c3ea1a3cbcb73b34dfb4231aef7bbcd7677abc4",
+      "nonempty_lf_records": 5331,
+      "matches_public_cornell_bytes": true
+    },
+    {
+      "path": "data/course/rt-polarity.neg",
+      "bytes": 612290,
+      "sha256": "4af43bf489620b498a0852c5a8c6a535155dec7985fdfea782b8f7756b957ccc",
+      "nonempty_lf_records": 5331,
+      "matches_public_cornell_bytes": true
+    },
+    {
+      "path": "data/course/nokia-pos.txt",
+      "bytes": 16532,
+      "sha256": "43a1fb2a41f32db85dd5fe9548d749f28cd508413b0a4460b8506eb3c753b680",
+      "nonempty_lf_records": 193
+    },
+    {
+      "path": "data/course/nokia-neg.txt",
+      "bytes": 8209,
+      "sha256": "d62ef5d02b1b1d69311261aff91630ffe3f9107dc594cc5561c038aa1561cbf5",
+      "nonempty_lf_records": 79
+    },
+    {
+      "path": "data/course/positive-words.txt",
+      "bytes": 20630,
+      "sha256": "9f643e85bcd7eb32e680f05df3d87fdd3277d6626122b3efec94f3ee3790b596",
+      "nonempty_lf_records": 2040,
+      "valid_lexicon_entries": 2006
+    },
+    {
+      "path": "data/course/negative-words.txt",
+      "bytes": 46301,
+      "sha256": "3dc5471a196a439be519c161a9e0aa42d540e68df8883a60d675b9c285a37cb4",
+      "nonempty_lf_records": 4817,
+      "valid_lexicon_entries": 4783
+    }
+  ],
+  "starter_code": {
+    "path": "course_materials/starter/Sentiment.py",
+    "bytes": 9745,
+    "sha256": "7df20a54516fa0be1ff1a934e3a927b8cffcf25fd3f6bb1ee0d3dbbf17da034b"
+  },
+  "omitted_from_repository": "Archive wrapper and macOS .DS_Store/AppleDouble metadata; original downloaded ZIP retained in local raw archive. Six data files, starter source and brief copied unchanged."
+}
