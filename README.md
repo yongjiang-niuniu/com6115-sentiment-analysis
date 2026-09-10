@@ -81,4 +81,4 @@ That run verifies the active submitted workflow; it does not reproduce the histo
 
 Yongjiang Liu's submitted additions include lexicon loading, evaluation metrics, dictionary error diagnostics, local language rules and experiment/report analysis. The Bayes learner and other supplied helpers remain credited as course scaffolding.
 
-The RT data retains Pang/Lee attribution; the lexicons retain their Hu/Liu citation headers. Original code, report and course materials remain unchanged in this private repository. [Provenance](docs/PROVENANCE.md) records the official submission, supporting materials and file hashes; [data attribution](data/README.md) records the dataset sources.
+The RT data retains Pang/Lee attribution; the lexicons retain their Hu/Liu citation headers. Original code, report and course materials remain unchanged in this repository. [Provenance](docs/PROVENANCE.md) records the official submission, supporting materials and file hashes; [data attribution](data/README.md) records the dataset sources.

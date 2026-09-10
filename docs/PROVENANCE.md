@@ -33,4 +33,4 @@ All six data files and the starter Python file were copied unchanged. macOS `.DS
 
 Archive additions include documentation, transcribed report metrics, verification evidence, official supporting files and the earlier public RT recovery. Both RT copies match. No model behavior was changed, no new run replaced the report, and no past commit dates were invented. Earlier recovery records describe their acquisition-time state; all data dependencies are now available.
 
-The official starter now establishes the supplied scaffold and the changes in the submitted implementation; see [contribution comparison](CONTRIBUTIONS.md). Dataset attribution and original documentation remain intact. This repository remains private.
+The official starter now establishes the supplied scaffold and the changes in the submitted implementation; see [contribution comparison](CONTRIBUTIONS.md). Dataset attribution and original documentation remain intact. The owner has authorized publication of the coursework archive, including the original submitted work and supporting course materials. Earlier private-publication records describe the state at recovery and remain unchanged.
